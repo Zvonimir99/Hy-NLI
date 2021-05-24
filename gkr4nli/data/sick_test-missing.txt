@@ -1,0 +1,64 @@
+111a	Two teams are competing in a football match	Football is being played by two competing teams	E
+114a	A player is running with the ball	Football is being played by two competing teams	N
+324a	A man is pointing at a silver sedan	A man is pointing at a car	E
+326a	A man is pointing at a car	A man is in a parking lot and is playing tennis against a large wall	N
+523a	A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians	Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people	N
+614a	A boy is climbing up a wall artificially built for climbing and is attached to a rope	A boy is coming down a wall artificially built for climbing and isn't attached to the rope	C
+623a	A boy is coming down a wall artificially built for climbing and isn't attached to the rope	A fearful little boy is on a climbing wall	N
+716a	A few men in a competition are running outside	A few men in a competition are running outdoors	E
+719a	A man is leading the race	A few men in a competition are running outdoors	N
+1139a	A man is driving a car	The car is being driven by a man	E
+1143a	A woman is dipping a prawn in batter	A man is driving a car	N
+1144a	A man is driving a car	There is no woman dipping a shrimp in batter	N
+1146a	A woman is dipping a shrimp in batter	There is no man driving the car	N
+1600a	The man needs a stenograph to operate 	The man is operating a stenograph	N
+1603a	A man is typing on a machine used for stenography	The man needs a stenograph to operate 	N
+1679a	The man is pouring oil on a few tomatoes	Few men like pouring tomato oil	N
+1688a	Few men like pouring tomato oil	The man is pouring some oil on the tomatoes	N
+1914a	The man is driving a car	The driver's car is parked by a man	N
+1916a	The windows are being cleaned by a man	The man isn't driving a car	N
+1920a	The man is driving a car	The man has a window of time to clean himself	N
+1958a	A woman is putting on some makeup carefully,	The band is singing 	N
+1959a	The band is singing 	A woman is carefully removing her makeup	N
+1979a	Some water is being drunk by a cat	A drunk man is unwarily watering a cat	N
+1986a	A truck is quickly going down a hill	A drunk man is unwarily watering a cat	N
+2048a	A playing device is amusing a cat	The boy is playing in the mud	N
+2435a	The keyboard is being played with his nose by a man	A man is playing the keyboard with his nose	E
+2437a	A man at the keyboard is playing with his nose	A man is playing the keyboard with his nose	E
+2439a	The man is playing the piano with his nose	There is no man playing the piano with his nose	C
+2442a	The man is playing the piano with his nose	The keyboard is being played with his nose by a man	E
+2443a	A man is idling	The man is playing the piano with his nose	N
+2444a	A man at the keyboard is playing with his nose	The man is playing the piano with his nose	N
+2785a	A woman is walking the dog down the street	The woman is not walking the dog	C
+3315a	A woman is cooking a pork chop which is breaded	A woman is cooking a breaded pork chop	E
+3323a	The woman is frying a breaded pork chop	A woman is cooking a pork chop which is breaded	E
+3394a	Nobody is beating an egg	Someone is beating an egg	C
+3714a	A toy train is missing a toy car	A toy train is striking a toy car	N
+4530a	A man is riding an animal	A man is driving a car	N
+4531a	A man is driving a car	There is no man riding a horse	N
+4533a	A man is riding a horse	There is no man driving a car	N
+4607a	A man is driving a car	A car is being driven by a man	E
+4608a	A man is driving a car	There is no man driving a car	C
+4613a	A car is being driven by a man	A man is driving a car	E
+4676a	Nobody is drilling a hole in a strip of wood with a power drill	A man is drilling a hole in a piece of wood	N
+4936a	The military officer is barking at the recruits	The military officer is not barking at the recruits	C
+4939a	An officer is talking to the recruits	The military officer is not barking at the recruits	N
+5168a	The man is not playing the drums	The man is playing the drums	C
+5170a	The man is not playing the drums	A man is pouring cleaner into the sink	N
+5382a	A man is not playing the drums	A man is playing the drums	C
+5388a	A man is not playing the drums	A man is playing the guitar	N
+5649a	Nobody is stirring a pot of chili with a spoon	Someone is stirring chili in a kettle	N
+5654a	A person is not making a bed	A person is making a bed	C
+5854a	Someone is stirring noodles in the water	Nobody is stirring noodles in the water	C
+5856a	A woman is boiling noodles in water	Nobody is stirring noodles in the water	N
+6492a	A blond boy is sliding down a dune of sand on a skateboard	A woman is snowboarding down an incline and another woman is standing behind her	N
+6755a	The brown dog is sniffing the back of a small black dog	The brown dog is not sniffing the back of a small black dog	C
+7282a	The brown dog is not playing outdoors	The furry brown dog is running through the grassy area	N
+9258a	A man by a brick wall is wearing a mask around his mouth and a hair net	A man by a wall made of bricks is wearing a mask around his mouth and a hair net	E
+9260a	A man by a wall made of bricks is wearing a mask around his mouth and a hair net	A man is wearing a clear plastic cap and a face mask	N
+9306a	No skateboarder is jumping in the air	A man in a red shirt is doing a trick with the skateboard	N
+9779a	One fish is swimming 	The man is slicing bread	N
+9832a	A toddler is playing with a plastic scooter toy	A woman in blue has a yellow ball in the mitt	N
+9959a	A dog is near a ball colored in red, which is in the air	A man is playing a guitar	N
+9962a	One woman is peeling a potato	A yellow flower is being clung to by a bee	N
+9979a	A person is wearing a straw hat and smoking a cigarette	A dog is near the red ball in the air	N
