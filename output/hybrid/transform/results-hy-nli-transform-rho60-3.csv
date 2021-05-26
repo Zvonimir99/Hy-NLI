@@ -1,20 +1,20 @@
 pair_ID	HybridLabel	MappedLabel	GoldLabel
 6a	BR	N	N
-7a	R		N
-8a	R		N
-10a	R		E
-11a	R		N
+7a	R	N	N
+8a	R	C	N
+10a	R	E	E
+11a	R	E	N
 13a	BR	C	C
-15a	R		N
+15a	R	C	N
 16a	BR	N	N
 17a	BR	N	N
-19a	R		N
+19a	R	N	N
 20a	B	C	N
 21a	BR	E	N
 22a	B	E	E
 23a	BR	C	C
 27a	BR	N	N
-29a	R		N
+29a	R	N	N
 31a	B	C	C
 32a	BR	N	E
 33a	BR	E	E
@@ -33,19 +33,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 53a	BR	N	N
 54a	B	E	N
 57a	BR	N	N
-59a	R		N
-60a	R		N
+59a	R	N	N
+60a	R	N	N
 61a	BR	N	N
 63a	BR	N	E
-64a	R		C
+64a	R	C	C
 66a	BR	N	E
-67a	R		C
+67a	R	N	C
 68a	B	N	N
-69a	R		C
+69a	R	C	C
 71a	BR	N	N
-74a	R		E
-75a	R		C
-76a	R		N
+74a	R	N	E
+75a	R	C	C
+76a	R	N	N
 86a	BR	N	N
 89a	B	E	N
 92a	BR	N	N
@@ -61,17 +61,17 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 110a	BR	N	N
 115a	BR	N	N
 118a	B	E	E
-121a	R		E
+121a	R	C	E
 123a	B	N	N
-125a	R		N
+125a	R	N	N
 128a	B	N	N
 132a	BR	C	C
-134a	R		N
+134a	R	N	N
 135a	BR	N	N
 137a	B	N	N
 138a	BR	N	N
-142a	R		E
-143a	R		C
+142a	R	N	E
+143a	R	N	C
 144a	BR	N	N
 145a	B	N	N
 147a	BR	N	N
@@ -89,26 +89,26 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 165a	BR	N	N
 166a	B	E	N
 167a	B	E	E
-168a	R		C
+168a	R	C	C
 169a	BR	E	E
-171a	R		N
+171a	R	C	N
 172a	BR	E	E
 174a	BR	E	N
 175a	B	E	E
 177a	BR	E	E
 178a	B	E	E
-179a	R		N
+179a	R	N	N
 180a	B	E	N
 181a	B	E	E
-182a	R		N
+182a	R	N	N
 187a	BR	N	N
 189a	B	N	N
-190a	R		N
+190a	R	N	N
 191a	B	N	E
 193a	BR	E	E
 195a	BR	N	N
-196a	R		C
-198a	R		C
+196a	R	N	C
+198a	R	N	C
 199a	BR	N	N
 203a	B	N	N
 204a	BR	N	E
@@ -129,40 +129,40 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 235a	B	N	N
 239a	BR	N	N
 242a	BR	N	N
-243a	R		N
-244a	R		C
+243a	R	N	N
+244a	R	C	C
 245a	BR	E	N
-246a	R		N
-247a	R		C
+246a	R	N	N
+247a	R	N	C
 250a	BR	N	N
 251a	BR	N	N
 252a	BR	N	N
 255a	BR	E	N
 261a	BR	N	N
 262a	B	E	E
-263a	R		N
+263a	R	N	N
 264a	BR	E	N
 267a	BR	N	N
 268a	BR	N	N
 270a	BR	N	N
 271a	BR	N	N
 274a	BR	E	N
-275a	R		N
-278a	R		N
+275a	R	N	N
+278a	R	N	N
 281a	B	N	N
 282a	B	E	E
 284a	BR	E	E
 288a	BR	N	N
 290a	BR	N	N
-292a	R		N
-294a	R		C
+292a	R	C	N
+294a	R	C	C
 295a	BR	N	N
 297a	BR	N	N
-298a	R		N
+298a	R	C	N
 299a	BR	N	N
 300a	BR	E	E
-306a	R		N
-307a	R		N
+306a	R	N	N
+307a	R	N	N
 308a	BR	N	N
 314a	B	C	C
 316a	BR	N	N
@@ -170,11 +170,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 319a	BR	N	N
 320a	BR	N	N
 321a	BR	N	N
-322a	R		N
+322a	R	N	N
 325a	B	C	C
 328a	BR	N	N
 330a	BR	N	N
-334a	R		N
+334a	R	C	N
 336a	BR	E	E
 337a	BR	N	E
 343a	BR	E	E
@@ -182,24 +182,24 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 348a	B	N	N
 349a	B	N	N
 350a	B	N	N
-352a	R		C
+352a	R	N	C
 353a	B	E	N
-355a	R		C
+355a	R	C	C
 356a	BR	N	N
 357a	BR	C	C
-359a	R		N
+359a	R	C	N
 364a	BR	E	E
 365a	BR	E	N
-368a	R		N
-369a	R		N
+368a	R	N	N
+369a	R	N	N
 371a	BR	N	E
 376a	B	N	N
-383a	R		N
-385a	R		N
-386a	R		N
+383a	R	N	N
+385a	R	C	N
+386a	R	N	N
 388a	BR	N	N
 389a	BR	N	N
-399a	R		N
+399a	R	N	N
 400a	B	N	N
 401a	B	N	N
 405a	BR	N	N
@@ -217,8 +217,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 424a	BR	N	E
 425a	B	C	C
 426a	BR	E	N
-429a	R		N
-430a	R		N
+429a	R	N	N
+430a	R	N	N
 431a	BR	C	C
 432a	BR	E	E
 433a	BR	E	E
@@ -228,20 +228,20 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 445a	BR	E	E
 448a	BR	N	N
 452a	B	N	N
-453a	R		E
+453a	R	N	E
 455a	B	N	N
 456a	BR	C	C
 458a	B	N	N
 459a	BR	N	N
-460a	R		N
+460a	R	N	N
 463a	B	C	C
 464a	BR	E	N
 466a	BR	C	C
-467a	R		N
+467a	R	N	N
 468a	B	N	N
 469a	B	E	E
-471a	R		N
-472a	R		N
+471a	R	N	N
+472a	R	N	N
 474a	BR	C	C
 478a	BR	C	C
 479a	BR	N	N
@@ -249,14 +249,14 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 481a	B	E	E
 482a	B	E	E
 483a	B	C	N
-487a	R		N
+487a	R	N	N
 488a	BR	N	N
 490a	BR	N	N
 492a	BR	C	C
 493a	B	N	N
 495a	BR	N	N
 498a	B	N	N
-501a	R		N
+501a	R	N	N
 502a	B	E	E
 503a	B	C	C
 504a	B	N	N
@@ -276,12 +276,12 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 537a	BR	N	N
 539a	BR	N	N
 540a	BR	N	N
-543a	R		N
+543a	R	N	N
 544a	BR	E	E
 546a	B	E	N
 547a	BR	N	N
 549a	B	N	N
-553a	R		N
+553a	R	N	N
 554a	BR	E	E
 558a	BR	N	N
 559a	B	E	N
@@ -290,15 +290,15 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 566a	B	N	N
 567a	BR	E	E
 569a	BR	N	N
-571a	R		C
-572a	R		N
+571a	R	C	C
+572a	R	C	N
 573a	BR	N	N
 574a	BR	N	N
-575a	R		N
+575a	R	N	N
 576a	B	N	N
 577a	B	N	N
 578a	BR	N	N
-579a	R		N
+579a	R	N	N
 580a	BR	E	E
 582a	B	E	N
 583a	B	E	E
@@ -307,9 +307,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 589a	BR	N	N
 590a	B	E	E
 591a	BR	E	E
-593a	R		E
+593a	R	N	E
 594a	BR	C	C
-595a	R		N
+595a	R	N	N
 596a	B	N	N
 598a	B	N	N
 600a	BR	E	E
@@ -319,18 +319,18 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 610a	BR	N	N
 612a	BR	N	E
 613a	BR	E	N
-615a	R		N
-616a	R		E
+615a	R	N	N
+616a	R	N	E
 618a	B	N	N
 620a	BR	N	N
 624a	BR	N	N
 627a	B	N	N
 633a	BR	N	N
-635a	R		N
-636a	R		N
+635a	R	N	N
+636a	R	N	N
 639a	BR	E	E
 640a	BR	E	N
-642a	R		E
+642a	R	N	E
 644a	BR	N	N
 652a	BR	E	E
 654a	B	N	N
@@ -340,7 +340,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 662a	BR	N	N
 664a	BR	N	N
 665a	BR	E	E
-666a	R		N
+666a	R	C	N
 667a	B	E	E
 669a	BR	N	N
 670a	BR	N	N
@@ -348,11 +348,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 674a	B	N	C
 675a	BR	N	E
 677a	BR	C	C
-681a	R		N
-682a	R		N
+681a	R	N	N
+682a	R	N	N
 683a	B	N	N
 684a	BR	N	N
-686a	R		N
+686a	R	N	N
 688a	BR	N	N
 694a	B	N	N
 695a	B	N	N
@@ -366,13 +366,13 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 711a	BR	N	N
 712a	BR	N	N
 713a	BR	E	E
-714a	R		N
-720a	R		N
+714a	R	C	N
+720a	R	N	N
 721a	B	N	N
-724a	R		N
+724a	R	N	N
 726a	BR	E	E
-739a	R		N
-740a	R		E
+739a	R	C	N
+740a	R	N	E
 742a	BR	E	N
 743a	B	N	N
 744a	B	N	N
@@ -384,9 +384,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 758a	B	N	N
 763a	BR	N	N
 767a	BR	N	N
-770a	R		N
+770a	R	N	N
 771a	B	E	N
-773a	R		N
+773a	R	C	N
 775a	BR	N	N
 776a	BR	N	N
 778a	BR	N	N
@@ -403,16 +403,16 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 800a	B	N	N
 801a	B	N	N
 803a	BR	N	N
-805a	R		E
+805a	R	N	E
 806a	BR	C	C
 807a	BR	N	N
-808a	R		N
+808a	R	N	N
 809a	B	C	C
-810a	R		N
+810a	R	N	N
 814a	BR	N	N
 815a	B	N	N
-817a	R		C
-818a	R		E
+817a	R	C	C
+818a	R	N	E
 819a	B	C	C
 821a	BR	N	N
 823a	BR	N	N
@@ -425,19 +425,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 835a	B	N	N
 837a	BR	N	N
 838a	BR	N	N
-840a	R		E
+840a	R	N	E
 842a	BR	E	N
 843a	B	N	N
 847a	BR	N	N
 849a	B	N	N
 850a	BR	N	N
-853a	R		E
+853a	R	N	E
 854a	B	C	C
 856a	B	E	E
-861a	R		N
-863a	R		N
-865a	R		C
-871a	R		N
+861a	R	N	N
+863a	R	N	N
+865a	R	N	C
+871a	R	N	N
 875a	BR	N	N
 877a	B	E	E
 884a	B	N	N
@@ -451,14 +451,14 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 900a	B	C	C
 901a	BR	E	N
 903a	BR	N	N
-905a	R		N
+905a	R	N	N
 907a	BR	N	N
-911a	R		N
+911a	R	N	N
 912a	BR	E	N
 914a	B	E	E
-916a	R		N
+916a	R	N	N
 918a	BR	N	N
-919a	R		N
+919a	R	N	N
 921a	B	N	N
 923a	B	E	E
 924a	BR	C	C
@@ -480,12 +480,12 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 955a	BR	N	N
 958a	BR	E	N
 964a	B	C	C
-965a	R		N
+965a	R	N	N
 966a	B	N	N
-968a	R		N
-969a	R		N
+968a	R	N	N
+969a	R	C	N
 971a	B	N	N
-972a	R		N
+972a	R	N	N
 974a	B	C	C
 976a	BR	E	E
 977a	BR	N	E
@@ -497,24 +497,24 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 992a	BR	N	N
 993a	BR	N	N
 995a	BR	N	N
-997a	R		N
+997a	R	N	N
 999a	BR	E	E
 1001a	B	E	E
 1003a	BR	N	N
 1005a	BR	N	N
 1006a	B	N	N
-1011a	R		E
+1011a	R	N	E
 1012a	B	N	N
 1013a	B	N	N
 1014a	B	N	N
 1015a	BR	N	N
 1017a	BR	N	N
 1020a	BR	N	N
-1023a	R		N
+1023a	R	N	N
 1024a	B	N	E
 1025a	BR	N	C
 1027a	BR	N	N
-1030a	R		N
+1030a	R	N	N
 1032a	B	E	E
 1034a	BR	E	N
 1035a	B	E	E
@@ -523,17 +523,17 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1041a	BR	E	E
 1042a	B	N	N
 1051a	BR	N	N
-1056a	R		N
+1056a	R	N	N
 1058a	B	E	E
 1059a	B	C	C
-1060a	R		N
+1060a	R	C	N
 1062a	B	C	C
 1063a	B	E	N
 1066a	BR	N	N
-1067a	R		N
+1067a	R	N	N
 1070a	B	N	N
 1071a	BR	E	E
-1072a	R		N
+1072a	R	C	N
 1073a	BR	E	E
 1075a	BR	N	N
 1077a	B	N	N
@@ -544,11 +544,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1086a	BR	N	N
 1089a	B	N	N
 1098a	B	E	E
-1100a	R		N
+1100a	R	N	N
 1101a	BR	N	N
 1103a	BR	N	N
-1106a	R		E
-1107a	R		C
+1106a	R	E	E
+1107a	R	E	C
 1110a	BR	C	C
 1113a	B	N	N
 1114a	B	N	N
@@ -557,10 +557,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1126a	BR	E	E
 1127a	BR	C	C
 1130a	BR	C	C
-1131a	R		C
+1131a	R	N	C
 1132a	BR	N	N
-1134a	R		N
-1136a	R		N
+1134a	R	N	N
+1136a	R	N	N
 1138a	B	N	N
 1140a	BR	C	C
 1141a	BR	N	E
@@ -570,15 +570,15 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1151a	BR	C	C
 1152a	B	N	N
 1156a	BR	N	N
-1158a	R		C
+1158a	R	C	C
 1159a	BR	E	E
 1160a	BR	N	N
 1163a	B	N	N
 1164a	BR	N	N
-1166a	R		E
-1168a	R		E
+1166a	R	N	E
+1168a	R	N	E
 1171a	BR	N	N
-1172a	R		N
+1172a	R	N	N
 1173a	BR	N	N
 1174a	BR	N	N
 1176a	BR	C	C
@@ -587,8 +587,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1185a	BR	N	N
 1186a	BR	E	E
 1187a	BR	N	N
-1189a	R		N
-1197a	R		C
+1189a	R	N	N
+1197a	R	C	C
 1198a	BR	N	N
 1199a	B	N	N
 1201a	BR	N	N
@@ -609,7 +609,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1229a	BR	N	N
 1231a	BR	N	N
 1233a	B	E	E
-1234a	R		C
+1234a	R	C	C
 1235a	BR	E	E
 1238a	B	N	N
 1243a	BR	C	C
@@ -621,10 +621,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1254a	BR	N	N
 1256a	B	N	N
 1257a	BR	N	N
-1258a	R		N
-1260a	R		E
+1258a	R	N	N
+1260a	R	N	E
 1261a	BR	C	C
-1262a	R		E
+1262a	R	N	E
 1263a	BR	C	C
 1264a	BR	N	E
 1265a	BR	C	C
@@ -645,10 +645,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1298a	B	E	N
 1299a	B	E	E
 1300a	BR	C	C
-1301a	R		N
+1301a	R	N	N
 1304a	B	N	N
 1306a	B	N	N
-1307a	R		N
+1307a	R	N	N
 1309a	B	E	E
 1310a	BR	C	C
 1312a	B	C	C
@@ -665,11 +665,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1330a	B	N	N
 1331a	B	E	E
 1332a	B	C	C
-1334a	R		N
-1337a	R		E
+1334a	R	N	N
+1337a	R	N	E
 1338a	BR	N	N
-1339a	R		E
-1340a	R		E
+1339a	R	N	E
+1340a	R	N	E
 1343a	B	N	C
 1347a	B	C	C
 1348a	B	E	E
@@ -689,7 +689,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1374a	BR	C	N
 1375a	B	E	E
 1377a	BR	C	C
-1382a	R		N
+1382a	R	N	N
 1383a	B	N	N
 1391a	BR	N	N
 1392a	B	N	N
@@ -701,8 +701,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1401a	BR	N	C
 1402a	BR	N	N
 1406a	BR	C	C
-1411a	R		N
-1413a	R		C
+1411a	R	C	N
+1413a	R	C	C
 1416a	B	E	E
 1418a	BR	N	E
 1420a	B	E	E
@@ -724,9 +724,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1449a	BR	N	N
 1450a	B	E	E
 1451a	BR	C	C
-1452a	R		N
+1452a	R	N	N
 1454a	B	N	N
-1456a	R		N
+1456a	R	N	N
 1457a	BR	E	E
 1459a	BR	E	E
 1460a	BR	N	N
@@ -741,11 +741,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1485a	B	C	C
 1490a	B	N	N
 1491a	B	N	N
-1492a	R		N
+1492a	R	N	N
 1496a	BR	C	C
 1497a	B	E	E
 1500a	B	C	C
-1502a	R		E
+1502a	R	N	E
 1507a	B	N	N
 1508a	B	N	N
 1510a	B	N	N
@@ -756,13 +756,13 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1520a	B	N	E
 1522a	BR	E	N
 1526a	B	N	N
-1528a	R		N
+1528a	R	N	N
 1529a	BR	E	E
 1530a	BR	N	N
 1533a	BR	N	N
 1537a	BR	N	N
 1539a	BR	C	C
-1540a	R		N
+1540a	R	N	N
 1542a	BR	E	N
 1543a	BR	N	N
 1544a	BR	N	N
@@ -771,23 +771,23 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1554a	B	N	N
 1555a	BR	N	N
 1556a	BR	N	E
-1560a	R		N
+1560a	R	N	N
 1561a	BR	N	N
 1562a	BR	N	N
 1564a	BR	N	E
-1567a	R		N
-1568a	R		E
+1567a	R	N	N
+1568a	R	N	E
 1569a	BR	C	N
-1571a	R		N
-1572a	R		N
+1571a	R	N	N
+1572a	R	N	N
 1577a	B	N	N
-1578a	R		E
+1578a	R	C	E
 1579a	B	C	C
 1581a	BR	C	C
 1583a	B	C	C
 1589a	BR	E	E
 1590a	BR	N	C
-1593a	R		E
+1593a	R	N	E
 1594a	B	N	N
 1596a	BR	E	E
 1597a	BR	N	N
@@ -795,25 +795,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1602a	BR	N	C
 1605a	B	N	N
 1611a	B	C	C
-1613a	R		N
-1616a	R		N
+1613a	R	N	N
+1616a	R	N	N
 1617a	BR	E	E
 1619a	B	E	E
 1620a	B	E	E
-1622a	R		N
+1622a	R	N	N
 1623a	BR	N	E
 1624a	B	N	N
 1630a	B	E	E
 1633a	B	N	N
 1634a	B	C	N
-1636a	R		N
+1636a	R	N	N
 1637a	BR	N	N
-1638a	R		N
+1638a	R	N	N
 1642a	BR	N	N
 1644a	B	C	C
 1645a	BR	E	N
 1654a	BR	C	C
-1656a	R		E
+1656a	R	N	E
 1658a	BR	E	E
 1662a	B	N	N
 1664a	BR	E	N
@@ -824,33 +824,33 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1674a	BR	N	N
 1678a	BR	C	C
 1681a	BR	C	C
-1683a	R		E
+1683a	R	N	E
 1684a	BR	C	C
-1685a	R		N
-1686a	R		E
+1685a	R	N	N
+1686a	R	E	E
 1689a	BR	E	E
 1692a	BR	N	N
-1693a	R		E
+1693a	R	N	E
 1695a	BR	N	N
 1696a	BR	E	E
 1698a	B	E	N
 1699a	BR	E	N
 1701a	BR	N	N
-1704a	R		C
+1704a	R	C	C
 1709a	BR	N	N
 1710a	BR	N	N
 1713a	BR	C	C
-1717a	R		E
-1718a	R		C
-1720a	R		C
-1722a	R		E
-1725a	R		E
+1717a	R	N	E
+1718a	R	N	C
+1720a	R	N	C
+1722a	R	N	E
+1725a	R	N	E
 1726a	B	C	C
 1727a	BR	E	N
-1728a	R		N
+1728a	R	C	N
 1730a	BR	N	N
-1731a	R		N
-1732a	R		N
+1731a	R	N	N
+1732a	R	N	N
 1734a	B	E	E
 1735a	B	C	C
 1737a	B	C	C
@@ -860,27 +860,27 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1742a	B	N	N
 1743a	B	E	E
 1744a	BR	C	C
-1745a	R		N
+1745a	R	C	N
 1746a	BR	E	E
 1748a	B	E	N
 1749a	B	N	N
 1750a	BR	E	E
 1752a	B	E	N
 1758a	BR	C	C
-1760a	R		N
-1761a	R		E
+1760a	R	E	N
+1761a	R	N	E
 1762a	B	N	N
-1763a	R		N
-1764a	R		N
+1763a	R	C	N
+1764a	R	N	N
 1767a	B	E	N
 1768a	B	E	E
 1769a	B	C	C
 1770a	BR	E	N
-1774a	R		N
-1775a	R		N
+1774a	R	N	N
+1775a	R	C	N
 1778a	B	E	E
 1779a	B	E	N
-1785a	R		N
+1785a	R	N	N
 1786a	BR	C	E
 1788a	BR	E	E
 1790a	BR	C	C
@@ -896,9 +896,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1803a	B	C	C
 1804a	B	E	E
 1805a	BR	C	C
-1806a	R		N
-1810a	R		N
-1813a	R		E
+1806a	R	N	N
+1810a	R	N	N
+1813a	R	N	E
 1816a	B	E	E
 1817a	BR	C	C
 1819a	B	N	N
@@ -906,7 +906,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1824a	B	N	N
 1826a	BR	E	E
 1827a	BR	E	N
-1828a	R		N
+1828a	R	N	N
 1831a	B	E	N
 1833a	BR	N	N
 1834a	BR	N	N
@@ -944,7 +944,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1895a	B	C	C
 1896a	BR	N	N
 1899a	BR	N	N
-1901a	R		C
+1901a	R	N	C
 1902a	B	N	N
 1903a	B	N	N
 1905a	BR	N	N
@@ -977,9 +977,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1962a	B	N	N
 1965a	B	C	C
 1966a	BR	N	N
-1968a	R		C
-1971a	R		N
-1973a	R		E
+1968a	R	N	C
+1971a	R	N	N
+1973a	R	C	E
 1976a	B	E	E
 1977a	B	E	E
 1980a	BR	E	E
@@ -989,11 +989,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 1990a	BR	N	N
 1995a	B	N	N
 1997a	BR	N	N
-1998a	R		N
-2002a	R		E
+1998a	R	N	N
+2002a	R	N	E
 2003a	B	N	N
 2010a	BR	N	N
-2013a	R		N
+2013a	R	N	N
 2017a	B	E	E
 2021a	B	N	N
 2022a	BR	N	N
@@ -1015,15 +1015,15 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2057a	BR	C	C
 2060a	B	E	E
 2062a	BR	E	N
-2063a	R		E
+2063a	R	N	E
 2065a	BR	N	C
 2069a	BR	N	N
 2071a	B	N	N
 2074a	BR	N	N
 2077a	BR	N	N
-2083a	R		N
+2083a	R	N	N
 2085a	B	N	N
-2093a	R		N
+2093a	R	N	N
 2095a	B	N	N
 2099a	B	N	N
 2101a	BR	E	E
@@ -1036,7 +1036,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2120a	B	N	N
 2126a	BR	N	N
 2127a	B	E	E
-2128a	R		C
+2128a	R	C	C
 2129a	BR	E	E
 2131a	BR	N	N
 2133a	BR	N	N
@@ -1045,31 +1045,31 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2137a	BR	C	C
 2138a	B	N	N
 2140a	BR	C	C
-2142a	R		N
-2143a	R		N
+2142a	R	C	N
+2143a	R	E	N
 2147a	B	N	N
-2149a	R		N
+2149a	R	N	N
 2151a	BR	N	N
 2152a	BR	E	E
-2154a	R		E
-2155a	R		N
+2154a	R	N	E
+2155a	R	N	N
 2156a	BR	N	N
-2158a	R		N
+2158a	R	N	N
 2159a	BR	N	N
-2160a	R		N
+2160a	R	N	N
 2161a	BR	N	N
 2168a	B	E	E
 2169a	BR	N	N
 2173a	BR	N	N
-2174a	R		E
-2177a	R		N
+2174a	R	N	E
+2177a	R	N	N
 2178a	B	E	E
-2182a	R		E
+2182a	R	N	E
 2185a	BR	C	C
-2186a	R		E
-2187a	R		C
-2189a	R		N
-2190a	R		N
+2186a	R	N	E
+2187a	R	N	C
+2189a	R	N	N
+2190a	R	N	N
 2191a	B	E	E
 2193a	BR	N	N
 2194a	B	E	E
@@ -1077,24 +1077,24 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2200a	B	N	N
 2201a	BR	N	N
 2204a	BR	E	N
-2206a	R		N
+2206a	R	C	N
 2209a	B	N	N
 2211a	B	N	N
 2214a	B	N	N
 2216a	B	N	N
 2219a	BR	C	C
-2220a	R		E
+2220a	R	C	E
 2223a	BR	N	N
 2224a	BR	N	N
 2225a	B	N	E
 2227a	B	C	C
 2230a	B	E	E
 2237a	BR	E	E
-2241a	R		N
+2241a	R	N	N
 2244a	BR	N	N
 2245a	BR	N	N
 2246a	B	E	E
-2248a	R		E
+2248a	R	N	E
 2249a	BR	C	C
 2254a	B	E	E
 2255a	B	E	E
@@ -1104,12 +1104,12 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2262a	B	N	N
 2265a	BR	C	C
 2267a	BR	C	C
-2268a	R		N
-2269a	R		N
+2268a	R	N	N
+2269a	R	N	N
 2270a	BR	N	N
 2271a	BR	C	N
 2273a	BR	E	E
-2276a	R		C
+2276a	R	N	C
 2278a	B	N	N
 2279a	BR	N	N
 2280a	B	N	N
@@ -1119,7 +1119,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2292a	BR	C	C
 2293a	BR	E	N
 2294a	B	N	N
-2295a	R		N
+2295a	R	N	N
 2296a	BR	N	N
 2298a	B	C	N
 2300a	BR	E	E
@@ -1132,20 +1132,20 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2324a	BR	N	N
 2325a	B	E	E
 2326a	B	C	C
-2328a	R		E
-2335a	R		E
+2328a	R	C	E
+2335a	R	N	E
 2336a	BR	C	C
 2337a	BR	E	E
 2342a	BR	N	N
 2343a	BR	E	E
 2345a	BR	E	E
 2346a	BR	E	E
-2347a	R		N
+2347a	R	N	N
 2349a	B	E	N
 2353a	BR	N	N
 2354a	BR	N	N
 2355a	B	N	N
-2356a	R		N
+2356a	R	N	N
 2357a	BR	E	E
 2361a	B	C	C
 2367a	BR	N	E
@@ -1155,30 +1155,30 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2373a	BR	C	N
 2376a	B	E	E
 2378a	B	E	N
-2379a	R		E
+2379a	R	N	E
 2380a	B	C	C
 2382a	BR	N	N
 2384a	BR	N	N
 2387a	B	N	N
 2389a	B	E	E
 2390a	BR	C	C
-2393a	R		N
+2393a	R	N	N
 2394a	BR	N	N
 2395a	BR	N	N
 2396a	BR	E	E
 2398a	B	C	C
-2399a	R		E
-2403a	R		N
+2399a	R	N	E
+2403a	R	N	N
 2406a	BR	E	E
 2408a	BR	E	E
-2411a	R		N
-2412a	R		N
-2416a	R		C
+2411a	R	E	N
+2412a	R	N	N
+2416a	R	N	C
 2417a	B	E	E
 2418a	B	E	E
 2419a	BR	C	C
 2420a	B	N	E
-2421a	R		N
+2421a	R	N	N
 2424a	BR	N	N
 2425a	B	N	E
 2427a	B	N	N
@@ -1187,7 +1187,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2433a	BR	N	N
 2434a	B	E	E
 2446a	B	E	E
-2448a	R		N
+2448a	R	C	N
 2449a	B	E	E
 2451a	B	E	N
 2452a	B	E	N
@@ -1205,12 +1205,12 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2473a	B	N	N
 2475a	B	N	N
 2477a	B	E	E
-2478a	R		N
-2479a	R		E
+2478a	R	N	N
+2479a	R	N	E
 2480a	BR	C	C
-2481a	R		N
+2481a	R	N	N
 2482a	BR	N	N
-2483a	R		N
+2483a	R	N	N
 2484a	B	N	N
 2487a	BR	N	N
 2489a	BR	C	C
@@ -1222,16 +1222,16 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2502a	BR	N	N
 2503a	BR	N	N
 2504a	BR	N	N
-2507a	R		C
+2507a	R	C	C
 2511a	BR	E	E
 2512a	BR	N	N
 2513a	B	E	E
 2516a	B	E	E
-2517a	R		E
+2517a	R	N	E
 2519a	BR	E	E
-2520a	R		C
-2522a	R		N
-2523a	R		N
+2520a	R	C	C
+2522a	R	N	N
+2523a	R	N	N
 2524a	BR	N	N
 2526a	B	N	C
 2528a	B	E	E
@@ -1260,8 +1260,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2568a	B	N	N
 2570a	BR	N	N
 2571a	B	N	N
-2573a	R		E
-2575a	R		E
+2573a	R	N	E
+2575a	R	N	E
 2576a	BR	C	C
 2580a	B	C	N
 2581a	B	E	E
@@ -1274,15 +1274,15 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2600a	BR	N	N
 2603a	BR	C	C
 2605a	BR	C	C
-2607a	R		E
-2609a	R		N
+2607a	R	C	E
+2609a	R	N	N
 2610a	B	E	E
 2611a	B	C	C
 2612a	B	E	E
 2613a	B	E	E
 2614a	BR	C	C
 2616a	B	N	N
-2617a	R		E
+2617a	R	N	E
 2618a	BR	N	N
 2620a	BR	C	C
 2621a	B	E	E
@@ -1294,17 +1294,17 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2639a	BR	N	N
 2641a	B	N	E
 2642a	BR	N	N
-2644a	R		N
+2644a	R	N	N
 2645a	BR	C	C
-2646a	R		E
+2646a	R	N	E
 2647a	BR	C	C
-2648a	R		N
+2648a	R	N	N
 2649a	B	N	N
-2652a	R		N
+2652a	R	C	N
 2653a	BR	E	E
 2658a	BR	N	N
 2659a	BR	N	N
-2661a	R		N
+2661a	R	N	N
 2663a	B	N	N
 2665a	BR	N	N
 2667a	BR	C	N
@@ -1318,7 +1318,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2685a	B	C	C
 2686a	B	E	E
 2690a	BR	N	N
-2693a	R		E
+2693a	R	N	E
 2694a	BR	N	N
 2695a	B	E	E
 2697a	BR	E	E
@@ -1326,29 +1326,29 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2699a	BR	E	E
 2700a	B	N	N
 2706a	BR	E	E
-2717a	R		N
+2717a	R	N	N
 2719a	BR	N	N
-2723a	R		C
+2723a	R	C	C
 2725a	BR	N	N
 2727a	BR	N	N
 2729a	B	N	N
 2732a	BR	N	N
 2733a	BR	E	E
 2736a	BR	C	C
-2737a	R		N
-2740a	R		N
+2737a	R	C	N
+2740a	R	N	N
 2742a	BR	E	E
 2743a	BR	C	C
 2745a	BR	N	N
 2746a	BR	E	E
-2747a	R		N
+2747a	R	N	N
 2749a	BR	N	C
-2750a	R		E
+2750a	R	N	E
 2753a	B	E	E
 2759a	B	E	E
 2760a	B	E	E
 2762a	B	E	E
-2767a	R		N
+2767a	R	C	N
 2769a	B	E	E
 2771a	BR	E	N
 2773a	BR	N	N
@@ -1362,9 +1362,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2796a	B	N	N
 2798a	B	E	E
 2801a	BR	C	C
-2804a	R		N
-2805a	R		N
-2806a	R		N
+2804a	R	N	N
+2805a	R	C	N
+2806a	R	N	N
 2808a	B	E	N
 2810a	B	E	N
 2814a	BR	N	N
@@ -1388,51 +1388,51 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2846a	BR	C	C
 2847a	B	E	E
 2848a	BR	C	C
-2849a	R		N
-2852a	R		N
+2849a	R	N	N
+2852a	R	C	N
 2855a	BR	C	C
 2858a	B	N	E
 2859a	BR	N	N
 2866a	BR	E	N
-2869a	R		N
+2869a	R	N	N
 2871a	BR	E	E
 2872a	B	E	E
 2873a	BR	C	C
-2876a	R		E
+2876a	R	N	E
 2877a	BR	C	C
 2878a	B	E	E
 2880a	BR	E	E
 2882a	BR	N	N
-2884a	R		C
-2885a	R		E
+2884a	R	C	C
+2885a	R	N	E
 2887a	B	E	E
 2888a	BR	N	N
 2889a	BR	E	E
-2892a	R		E
-2893a	R		C
+2892a	R	N	E
+2893a	R	N	C
 2895a	B	N	C
-2897a	R		N
+2897a	R	C	N
 2901a	BR	E	E
 2902a	BR	N	N
 2904a	B	N	N
 2906a	BR	N	N
-2912a	R		E
+2912a	R	N	E
 2914a	B	E	N
 2921a	BR	N	N
-2922a	R		N
+2922a	R	N	N
 2923a	BR	N	N
-2925a	R		N
+2925a	R	N	N
 2928a	B	N	E
 2929a	BR	C	C
 2931a	B	N	N
-2934a	R		N
+2934a	R	N	N
 2940a	BR	N	E
 2942a	BR	N	N
 2944a	BR	N	N
 2946a	B	E	E
 2947a	BR	C	C
 2948a	BR	E	E
-2949a	R		C
+2949a	R	C	C
 2950a	BR	E	E
 2953a	BR	N	C
 2954a	BR	E	E
@@ -1449,10 +1449,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 2990a	B	E	N
 2991a	BR	N	N
 2993a	B	N	N
-2999a	R		N
+2999a	R	N	N
 3000a	B	N	N
-3001a	R		N
-3003a	R		N
+3001a	R	N	N
+3003a	R	N	N
 3004a	BR	E	E
 3006a	B	E	E
 3008a	BR	E	N
@@ -1463,26 +1463,26 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3017a	BR	E	E
 3020a	BR	N	N
 3021a	B	N	N
-3023a	R		N
+3023a	R	N	N
 3025a	BR	N	C
-3026a	R		E
+3026a	R	N	E
 3028a	B	N	N
-3029a	R		C
-3030a	R		N
+3029a	R	C	C
+3030a	R	C	N
 3032a	B	N	N
-3034a	R		C
+3034a	R	C	C
 3035a	B	E	E
 3037a	BR	E	E
-3040a	R		C
+3040a	R	N	C
 3044a	BR	E	E
 3045a	BR	N	C
-3048a	R		N
+3048a	R	N	N
 3051a	BR	E	E
 3052a	BR	C	C
 3053a	BR	E	E
 3055a	BR	E	E
 3056a	B	N	N
-3057a	R		E
+3057a	R	N	E
 3058a	B	C	C
 3060a	B	E	E
 3063a	BR	E	E
@@ -1495,11 +1495,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3076a	BR	N	N
 3077a	B	E	E
 3078a	BR	C	C
-3080a	R		E
+3080a	R	N	E
 3082a	BR	E	E
 3083a	BR	C	C
 3084a	BR	N	N
-3086a	R		N
+3086a	R	C	N
 3087a	B	N	N
 3088a	BR	N	N
 3089a	B	E	E
@@ -1522,7 +1522,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3118a	B	E	E
 3119a	BR	C	C
 3120a	B	E	E
-3124a	R		N
+3124a	R	N	N
 3125a	B	C	N
 3127a	BR	E	E
 3128a	B	N	N
@@ -1532,7 +1532,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3136a	BR	E	N
 3137a	BR	C	C
 3138a	BR	E	N
-3139a	R		E
+3139a	R	C	E
 3141a	BR	N	N
 3142a	BR	N	N
 3144a	BR	N	N
@@ -1543,7 +1543,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3149a	BR	E	E
 3151a	B	N	N
 3152a	B	N	N
-3154a	R		N
+3154a	R	N	N
 3155a	B	N	N
 3159a	BR	C	C
 3160a	B	N	N
@@ -1563,22 +1563,22 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3183a	BR	N	N
 3184a	BR	N	E
 3185a	BR	E	E
-3189a	R		N
-3190a	R		N
-3191a	R		N
-3193a	R		N
+3189a	R	C	N
+3190a	R	C	N
+3191a	R	C	N
+3193a	R	C	N
 3194a	BR	E	E
 3195a	BR	C	C
-3196a	R		E
-3197a	R		C
-3198a	R		E
-3199a	R		C
+3196a	R	N	E
+3197a	R	C	C
+3198a	R	N	E
+3199a	R	N	C
 3204a	BR	N	N
 3205a	BR	E	E
 3206a	BR	C	C
-3207a	R		E
+3207a	R	N	E
 3209a	BR	E	E
-3210a	R		N
+3210a	R	N	N
 3211a	B	E	E
 3212a	B	E	E
 3215a	BR	C	C
@@ -1590,16 +1590,16 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3229a	BR	N	N
 3231a	BR	C	C
 3233a	B	N	C
-3234a	R		N
+3234a	R	N	N
 3235a	BR	N	N
-3236a	R		N
+3236a	R	N	N
 3237a	B	N	N
 3239a	BR	E	E
 3240a	BR	C	C
 3241a	B	E	E
 3244a	BR	N	N
 3245a	BR	E	E
-3246a	R		N
+3246a	R	N	N
 3247a	BR	E	E
 3249a	BR	N	N
 3251a	BR	N	N
@@ -1608,7 +1608,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3267a	BR	C	N
 3268a	BR	E	E
 3269a	BR	C	C
-3270a	R		N
+3270a	R	N	N
 3276a	B	N	N
 3279a	B	N	N
 3282a	BR	N	N
@@ -1617,8 +1617,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3290a	B	N	N
 3293a	BR	N	N
 3295a	BR	E	E
-3296a	R		N
-3297a	R		E
+3296a	R	N	N
+3297a	R	C	E
 3300a	B	E	N
 3301a	BR	N	C
 3302a	B	E	E
@@ -1629,14 +1629,14 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3309a	BR	C	C
 3310a	BR	E	E
 3312a	BR	E	N
-3317a	R		E
-3318a	R		C
+3317a	R	N	E
+3318a	R	C	C
 3320a	BR	E	E
-3326a	R		E
+3326a	R	C	E
 3328a	BR	E	E
 3331a	B	N	N
-3333a	R		N
-3334a	R		N
+3333a	R	C	N
+3334a	R	C	N
 3335a	B	E	E
 3337a	BR	E	E
 3341a	BR	N	N
@@ -1655,7 +1655,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3383a	BR	N	N
 3387a	BR	C	C
 3388a	BR	E	E
-3390a	R		E
+3390a	R	C	E
 3391a	BR	C	C
 3392a	BR	E	E
 3393a	BR	E	E
@@ -1669,36 +1669,36 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3409a	BR	N	N
 3410a	B	E	E
 3415a	BR	N	C
-3417a	R		N
-3419a	R		N
-3421a	R		N
+3417a	R	C	N
+3419a	R	C	N
+3421a	R	N	N
 3430a	BR	N	N
-3431a	R		N
+3431a	R	N	N
 3434a	B	C	C
 3439a	BR	E	E
 3441a	B	E	E
 3442a	BR	N	E
 3445a	BR	C	N
-3446a	R		N
+3446a	R	C	N
 3447a	BR	N	N
 3449a	B	E	E
 3450a	BR	N	N
-3455a	R		N
-3456a	R		N
+3455a	R	N	N
+3456a	R	N	N
 3457a	BR	N	N
 3458a	B	C	N
 3463a	BR	N	C
-3466a	R		E
+3466a	R	N	E
 3470a	BR	N	N
-3473a	R		N
+3473a	R	C	N
 3474a	BR	N	N
 3475a	BR	N	N
-3476a	R		N
+3476a	R	N	N
 3477a	BR	N	N
 3478a	BR	N	N
 3481a	BR	C	C
-3482a	R		N
-3483a	R		N
+3482a	R	N	N
+3483a	R	N	N
 3489a	BR	E	N
 3490a	B	C	N
 3493a	BR	E	E
@@ -1706,13 +1706,13 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3498a	BR	N	N
 3499a	B	N	N
 3502a	BR	C	C
-3506a	R		E
-3509a	R		N
+3506a	R	N	E
+3509a	R	C	N
 3513a	BR	E	E
 3515a	B	E	E
-3519a	R		C
+3519a	R	C	C
 3520a	B	C	N
-3521a	R		C
+3521a	R	C	C
 3522a	BR	E	E
 3523a	BR	C	C
 3524a	B	E	E
@@ -1721,7 +1721,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3527a	BR	N	E
 3531a	BR	N	C
 3532a	B	N	E
-3535a	R		N
+3535a	R	C	N
 3540a	BR	N	N
 3545a	B	N	N
 3550a	BR	N	N
@@ -1734,24 +1734,24 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3560a	BR	E	N
 3562a	BR	C	C
 3563a	B	E	E
-3564a	R		E
+3564a	R	N	E
 3570a	BR	N	C
 3573a	BR	E	N
 3575a	BR	E	E
 3578a	BR	C	C
 3581a	B	N	N
 3583a	BR	N	N
-3585a	R		C
+3585a	R	C	C
 3587a	B	N	N
 3588a	BR	N	E
-3590a	R		E
+3590a	R	N	E
 3591a	BR	C	C
 3593a	B	E	E
 3594a	B	N	N
 3595a	BR	E	E
 3596a	BR	C	C
 3597a	B	N	N
-3599a	R		N
+3599a	R	N	N
 3600a	BR	E	E
 3601a	BR	E	E
 3605a	BR	N	N
@@ -1759,7 +1759,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3608a	B	N	N
 3609a	BR	N	N
 3610a	B	N	N
-3612a	R		N
+3612a	R	N	N
 3613a	BR	N	N
 3615a	BR	E	E
 3616a	BR	C	C
@@ -1772,7 +1772,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3632a	B	N	E
 3634a	B	N	N
 3636a	BR	C	C
-3637a	R		E
+3637a	R	N	E
 3641a	B	N	E
 3642a	B	N	N
 3644a	B	E	E
@@ -1789,9 +1789,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3664a	BR	N	N
 3665a	B	N	N
 3667a	BR	N	N
-3671a	R		N
+3671a	R	C	N
 3674a	B	N	N
-3675a	R		N
+3675a	R	C	N
 3676a	BR	N	N
 3677a	BR	E	E
 3678a	B	N	N
@@ -1803,59 +1803,59 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3700a	BR	N	N
 3704a	BR	N	C
 3706a	BR	N	N
-3715a	R		N
+3715a	R	N	N
 3716a	B	E	E
 3717a	BR	C	C
 3722a	BR	C	C
-3723a	R		N
-3724a	R		N
+3723a	R	N	N
+3724a	R	C	N
 3726a	B	C	N
-3729a	R		N
+3729a	R	N	N
 3730a	BR	N	N
-3731a	R		E
+3731a	R	N	E
 3732a	B	N	N
-3734a	R		N
+3734a	R	N	N
 3735a	BR	N	N
 3738a	B	N	N
 3741a	B	E	E
 3744a	BR	C	C
-3745a	R		N
-3749a	R		C
+3745a	R	N	N
+3749a	R	C	C
 3754a	BR	E	N
 3757a	BR	C	C
 3763a	BR	E	E
 3768a	B	E	E
 3769a	BR	N	N
 3771a	BR	C	C
-3772a	R		E
-3773a	R		C
-3775a	R		N
+3772a	R	N	E
+3773a	R	C	C
+3775a	R	N	N
 3778a	B	N	N
 3782a	BR	N	N
 3786a	BR	N	N
-3787a	R		N
+3787a	R	N	N
 3791a	BR	N	N
 3792a	BR	E	E
 3793a	BR	C	C
-3794a	R		N
+3794a	R	N	N
 3796a	BR	C	N
 3798a	B	E	E
 3802a	BR	C	C
 3806a	B	E	E
 3808a	B	N	N
-3810a	R		N
-3811a	R		N
+3810a	R	N	N
+3811a	R	N	N
 3813a	BR	C	C
-3815a	R		E
+3815a	R	N	E
 3816a	BR	C	C
-3817a	R		E
-3818a	R		N
-3819a	R		N
-3822a	R		N
+3817a	R	N	E
+3818a	R	N	N
+3819a	R	N	N
+3822a	R	N	N
 3824a	B	N	N
 3829a	B	E	E
 3830a	B	N	N
-3832a	R		E
+3832a	R	N	E
 3833a	BR	C	C
 3835a	BR	C	C
 3837a	B	E	E
@@ -1872,7 +1872,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3863a	BR	N	N
 3865a	B	E	E
 3867a	BR	E	E
-3875a	R		E
+3875a	R	N	E
 3876a	B	E	E
 3877a	B	N	N
 3878a	BR	E	E
@@ -1904,10 +1904,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3944a	BR	C	C
 3945a	BR	E	E
 3946a	BR	C	C
-3950a	R		C
+3950a	R	N	C
 3952a	BR	E	E
 3953a	BR	N	N
-3954a	R		E
+3954a	R	N	E
 3959a	BR	N	N
 3960a	BR	N	E
 3962a	BR	N	E
@@ -1925,7 +1925,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 3978a	B	E	N
 3979a	BR	C	C
 3981a	BR	E	E
-3983a	R		E
+3983a	R	N	E
 3988a	B	N	N
 3991a	BR	C	C
 3997a	BR	N	N
@@ -1938,20 +1938,20 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4016a	BR	N	C
 4018a	BR	E	E
 4019a	B	N	N
-4022a	R		C
+4022a	R	N	C
 4023a	BR	N	N
 4024a	B	E	E
 4025a	B	E	E
-4026a	R		C
-4027a	R		E
+4026a	R	C	C
+4027a	R	N	E
 4029a	BR	N	N
 4030a	B	N	N
 4032a	B	N	N
 4035a	B	N	N
 4039a	BR	N	N
-4042a	R		N
-4044a	R		N
-4048a	R		C
+4042a	R	N	N
+4044a	R	N	N
+4048a	R	C	C
 4051a	BR	E	E
 4052a	BR	N	N
 4053a	B	E	E
@@ -1959,18 +1959,18 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4057a	BR	C	C
 4059a	BR	N	N
 4064a	BR	E	C
-4070a	R		N
+4070a	R	N	N
 4073a	BR	N	N
 4075a	BR	N	N
 4077a	BR	C	C
 4078a	BR	N	N
 4080a	BR	C	C
 4081a	BR	E	N
-4082a	R		E
+4082a	R	N	E
 4089a	BR	C	C
 4091a	BR	N	N
 4092a	B	N	N
-4093a	R		N
+4093a	R	N	N
 4095a	BR	N	N
 4096a	BR	E	N
 4097a	BR	E	E
@@ -1980,34 +1980,34 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4103a	B	N	N
 4104a	B	N	N
 4106a	BR	N	N
-4107a	R		E
+4107a	R	N	E
 4110a	BR	C	C
-4111a	R		E
+4111a	R	N	E
 4116a	BR	E	E
-4121a	R		N
+4121a	R	N	N
 4122a	B	C	N
 4124a	B	N	N
 4128a	BR	C	C
 4129a	BR	N	N
 4130a	BR	N	N
-4131a	R		N
+4131a	R	N	N
 4138a	BR	E	E
 4139a	BR	C	C
 4143a	B	N	N
 4144a	BR	N	N
 4150a	BR	N	N
-4151a	R		N
+4151a	R	N	N
 4153a	BR	N	N
-4158a	R		N
+4158a	R	N	N
 4159a	B	N	N
-4160a	R		N
+4160a	R	N	N
 4161a	B	N	N
 4166a	BR	N	N
 4167a	BR	N	N
 4169a	BR	N	N
-4170a	R		N
+4170a	R	C	N
 4171a	B	N	N
-4172a	R		N
+4172a	R	N	N
 4175a	BR	C	C
 4177a	B	C	N
 4180a	B	E	E
@@ -2024,7 +2024,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4203a	B	E	E
 4204a	B	C	C
 4208a	B	C	N
-4210a	R		E
+4210a	R	N	E
 4211a	BR	C	C
 4215a	B	N	N
 4217a	B	N	N
@@ -2038,85 +2038,85 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4230a	BR	E	E
 4233a	B	N	N
 4234a	BR	N	N
-4237a	R		E
+4237a	R	N	E
 4240a	BR	C	C
-4241a	R		N
-4243a	R		N
-4245a	R		N
+4241a	R	N	N
+4243a	R	N	N
+4245a	R	N	N
 4249a	B	C	C
 4250a	BR	E	N
-4255a	R		C
+4255a	R	C	C
 4256a	BR	E	E
 4258a	BR	N	N
 4261a	B	N	N
 4262a	BR	N	N
 4263a	B	N	N
 4264a	B	N	N
-4268a	R		N
-4270a	R		E
+4268a	R	N	N
+4270a	R	N	E
 4271a	B	C	N
 4273a	B	C	N
 4276a	BR	C	C
-4278a	R		C
+4278a	R	C	C
 4281a	BR	E	E
 4285a	BR	C	C
 4286a	B	E	E
 4292a	BR	E	E
 4293a	BR	E	E
 4294a	B	E	N
-4296a	R		C
+4296a	R	C	C
 4297a	BR	E	N
 4298a	BR	C	C
 4300a	B	E	N
 4302a	BR	E	E
-4303a	R		C
+4303a	R	N	C
 4309a	B	N	N
-4310a	R		N
-4311a	R		N
+4310a	R	C	N
+4311a	R	N	N
 4313a	B	E	E
-4314a	R		C
-4317a	R		N
-4319a	R		N
+4314a	R	C	C
+4317a	R	C	N
+4319a	R	C	N
 4324a	BR	C	C
 4326a	BR	N	N
 4327a	BR	C	C
 4331a	B	N	N
 4332a	BR	E	E
 4333a	B	E	N
-4334a	R		C
+4334a	R	N	C
 4337a	BR	N	N
 4343a	BR	C	C
 4345a	B	C	C
-4352a	R		C
+4352a	R	C	C
 4353a	BR	E	E
 4355a	BR	N	N
 4356a	BR	N	N
 4358a	BR	N	N
-4362a	R		N
-4366a	R		N
-4367a	R		N
+4362a	R	N	N
+4366a	R	C	N
+4367a	R	N	N
 4368a	BR	N	N
 4372a	BR	C	C
-4373a	R		E
+4373a	R	C	E
 4374a	B	C	C
-4375a	R		N
-4380a	R		E
+4375a	R	N	N
+4380a	R	N	E
 4383a	BR	C	C
-4389a	R		E
-4391a	R		E
+4389a	R	N	E
+4391a	R	N	E
 4397a	B	E	E
 4399a	BR	C	C
-4400a	R		E
-4402a	R		E
+4400a	R	N	E
+4402a	R	N	E
 4403a	BR	C	C
-4404a	R		E
+4404a	R	N	E
 4405a	BR	C	C
 4406a	BR	E	E
 4409a	BR	E	E
 4413a	BR	N	N
 4415a	BR	N	N
 4416a	BR	E	E
-4419a	R		C
+4419a	R	N	C
 4420a	B	N	N
 4421a	BR	N	N
 4422a	BR	N	N
@@ -2130,9 +2130,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4434a	BR	E	E
 4436a	B	E	E
 4437a	BR	C	C
-4438a	R		N
+4438a	R	C	N
 4441a	B	N	N
-4444a	R		C
+4444a	R	C	C
 4448a	BR	N	N
 4449a	BR	N	N
 4450a	BR	N	N
@@ -2140,12 +2140,12 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4452a	BR	E	E
 4453a	BR	C	C
 4455a	BR	C	C
-4456a	R		N
+4456a	R	C	N
 4459a	BR	C	C
 4460a	BR	E	E
 4461a	BR	E	E
 4462a	BR	C	C
-4463a	R		E
+4463a	R	N	E
 4465a	BR	E	N
 4466a	B	N	N
 4467a	BR	N	N
@@ -2154,7 +2154,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4475a	BR	N	N
 4476a	B	N	N
 4478a	BR	N	N
-4479a	R		E
+4479a	R	N	E
 4480a	BR	C	C
 4482a	BR	C	C
 4483a	BR	N	N
@@ -2162,76 +2162,76 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4485a	BR	N	N
 4488a	BR	E	N
 4489a	BR	C	C
-4491a	R		N
+4491a	R	N	N
 4493a	BR	N	N
 4494a	BR	E	E
 4495a	BR	C	N
 4496a	BR	N	N
-4499a	R		E
+4499a	R	C	E
 4500a	BR	C	C
 4502a	BR	N	N
 4504a	BR	N	N
 4506a	BR	N	N
-4508a	R		E
+4508a	R	E	E
 4510a	BR	E	E
 4512a	B	N	N
 4518a	BR	C	C
-4521a	R		N
+4521a	R	N	N
 4527a	BR	C	C
 4528a	BR	E	E
 4532a	BR	N	N
 4535a	BR	E	E
-4536a	R		C
+4536a	R	C	C
 4537a	BR	E	E
 4538a	BR	C	C
 4539a	BR	E	N
-4542a	R		N
+4542a	R	N	N
 4543a	BR	N	N
 4547a	BR	C	C
-4548a	R		N
-4550a	R		N
-4552a	R		C
-4554a	R		C
+4548a	R	N	N
+4550a	R	N	N
+4552a	R	C	C
+4554a	R	C	C
 4555a	B	E	E
 4557a	BR	N	N
-4560a	R		N
+4560a	R	N	N
 4561a	BR	N	N
 4563a	BR	C	C
 4566a	BR	E	E
 4568a	BR	E	E
 4571a	B	E	E
-4572a	R		C
+4572a	R	C	C
 4575a	BR	N	N
 4576a	BR	N	N
 4577a	BR	N	N
 4578a	BR	N	N
-4582a	R		E
-4584a	R		N
-4586a	R		E
+4582a	R	C	E
+4584a	R	N	N
+4586a	R	N	E
 4587a	BR	C	C
 4589a	BR	N	E
 4591a	BR	E	E
 4592a	BR	C	C
 4593a	BR	N	N
 4594a	BR	N	N
-4598a	R		E
+4598a	R	N	E
 4600a	BR	N	E
-4602a	R		E
+4602a	R	N	E
 4603a	BR	C	N
-4604a	R		E
+4604a	R	N	E
 4618a	BR	N	N
 4620a	B	E	E
-4621a	R		N
+4621a	R	N	N
 4622a	B	E	E
 4623a	BR	C	C
 4624a	B	E	E
-4625a	R		E
+4625a	R	N	E
 4627a	BR	N	N
 4628a	BR	C	C
 4629a	B	N	N
 4631a	B	N	N
 4639a	BR	N	N
-4640a	R		N
+4640a	R	N	N
 4641a	BR	N	N
 4642a	BR	N	N
 4645a	BR	N	N
@@ -2250,16 +2250,16 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4682a	BR	C	C
 4684a	BR	C	C
 4690a	BR	E	E
-4691a	R		C
+4691a	R	C	C
 4692a	BR	E	E
-4693a	R		N
+4693a	R	C	N
 4694a	B	N	N
 4695a	B	N	N
 4698a	B	N	N
 4703a	B	N	N
 4704a	BR	N	N
-4705a	R		N
-4706a	R		N
+4705a	R	N	N
+4706a	R	N	N
 4708a	BR	E	E
 4709a	BR	C	C
 4714a	BR	E	N
@@ -2269,7 +2269,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4722a	BR	N	N
 4723a	B	N	N
 4726a	BR	N	N
-4727a	R		N
+4727a	R	N	N
 4730a	BR	E	E
 4732a	BR	E	E
 4733a	BR	C	C
@@ -2283,7 +2283,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4748a	BR	E	E
 4749a	BR	C	C
 4750a	BR	E	E
-4751a	R		C
+4751a	R	C	C
 4754a	B	N	N
 4757a	B	E	E
 4758a	BR	N	N
@@ -2292,26 +2292,26 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4770a	B	N	N
 4772a	B	N	N
 4773a	B	N	N
-4775a	R		E
-4778a	R		C
+4775a	R	N	E
+4778a	R	N	C
 4779a	B	E	E
-4781a	R		E
+4781a	R	N	E
 4783a	BR	E	E
-4784a	R		E
-4785a	R		C
+4784a	R	N	E
+4785a	R	C	C
 4786a	BR	E	E
 4787a	BR	C	C
 4789a	B	N	N
-4791a	R		N
+4791a	R	N	N
 4792a	B	N	N
 4801a	B	E	E
-4804a	R		N
+4804a	R	C	N
 4809a	BR	N	N
 4818a	B	C	C
 4827a	BR	C	C
 4828a	B	E	E
 4829a	B	C	C
-4830a	R		E
+4830a	R	N	E
 4833a	BR	N	N
 4834a	BR	C	C
 4835a	BR	N	N
@@ -2327,10 +2327,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4862a	BR	E	E
 4864a	BR	N	N
 4865a	B	N	N
-4868a	R		N
+4868a	R	C	N
 4870a	BR	C	C
 4871a	B	E	E
-4873a	R		N
+4873a	R	N	N
 4875a	BR	N	N
 4876a	BR	N	N
 4878a	BR	E	E
@@ -2338,31 +2338,31 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4887a	BR	N	E
 4889a	B	E	E
 4890a	BR	C	C
-4892a	R		C
+4892a	R	C	C
 4893a	B	E	E
 4894a	B	N	N
 4895a	BR	N	E
-4896a	R		E
+4896a	R	E	E
 4897a	BR	C	C
 4899a	BR	C	C
-4902a	R		N
+4902a	R	N	N
 4904a	B	N	N
 4906a	BR	C	C
-4907a	R		E
+4907a	R	N	E
 4908a	BR	C	C
 4909a	BR	N	N
 4910a	BR	N	N
-4914a	R		E
+4914a	R	N	E
 4917a	BR	C	C
-4923a	R		N
+4923a	R	N	N
 4924a	BR	C	C
-4925a	R		E
+4925a	R	N	E
 4927a	B	N	N
-4930a	R		N
+4930a	R	N	N
 4931a	BR	N	N
 4935a	B	N	E
 4943a	BR	N	N
-4945a	R		E
+4945a	R	N	E
 4952a	BR	N	N
 4955a	BR	C	C
 4956a	B	N	E
@@ -2381,16 +2381,16 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 4993a	BR	C	C
 4994a	B	N	N
 4995a	BR	N	N
-4999a	R		E
-5001a	R		E
-5004a	R		N
-5006a	R		E
-5008a	R		N
+4999a	R	E	E
+5001a	R	E	E
+5004a	R	N	N
+5006a	R	E	E
+5008a	R	N	N
 5009a	BR	C	C
 5013a	B	N	N
-5016a	R		N
-5019a	R		N
-5020a	R		E
+5016a	R	C	N
+5019a	R	N	N
+5020a	R	C	E
 5021a	BR	C	C
 5028a	BR	E	E
 5029a	BR	C	C
@@ -2398,54 +2398,54 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5035a	BR	N	N
 5036a	BR	E	E
 5038a	BR	E	E
-5041a	R		E
+5041a	R	N	E
 5042a	BR	C	C
-5043a	R		N
+5043a	R	C	N
 5044a	B	N	N
 5054a	BR	N	N
-5055a	R		N
-5057a	R		E
+5055a	R	C	N
+5057a	R	N	E
 5059a	BR	E	E
 5061a	B	E	E
 5062a	B	C	C
-5063a	R		E
+5063a	R	N	E
 5065a	B	E	E
-5066a	R		E
+5066a	R	N	E
 5067a	BR	C	C
 5068a	B	E	E
 5069a	BR	C	C
 5070a	BR	N	N
 5071a	BR	N	N
-5075a	R		E
+5075a	R	C	E
 5076a	BR	C	C
-5077a	R		E
+5077a	R	N	E
 5084a	BR	N	E
 5087a	BR	N	N
 5088a	B	N	N
 5090a	B	N	N
 5093a	BR	E	E
 5094a	BR	C	C
-5095a	R		E
-5098a	R		N
-5099a	R		N
-5101a	R		N
+5095a	R	N	E
+5098a	R	N	N
+5099a	R	N	N
+5101a	R	N	N
 5103a	B	C	N
 5104a	BR	E	E
 5106a	BR	E	E
-5108a	R		E
+5108a	R	N	E
 5111a	B	N	E
 5112a	BR	C	C
 5118a	BR	N	N
-5120a	R		E
-5122a	R		E
+5120a	R	C	E
+5122a	R	N	E
 5126a	B	N	N
 5128a	B	N	N
 5129a	B	E	E
-5130a	R		C
+5130a	R	C	C
 5131a	BR	E	N
 5138a	BR	E	N
 5140a	B	N	E
-5143a	R		N
+5143a	R	N	N
 5144a	BR	N	N
 5146a	BR	N	N
 5150a	BR	C	C
@@ -2454,18 +2454,18 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5156a	B	E	E
 5157a	B	C	C
 5158a	B	E	E
-5159a	R		N
-5162a	R		N
-5164a	R		N
+5159a	R	N	N
+5162a	R	N	N
+5164a	R	N	N
 5165a	B	E	E
 5172a	B	N	N
 5173a	B	N	N
-5174a	R		E
+5174a	R	N	E
 5179a	BR	C	C
-5180a	R		E
+5180a	R	N	E
 5181a	BR	C	N
 5182a	BR	E	E
-5183a	R		E
+5183a	R	N	E
 5184a	BR	E	N
 5185a	B	E	E
 5188a	BR	N	N
@@ -2490,15 +2490,15 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5224a	BR	N	N
 5228a	B	E	E
 5229a	BR	C	C
-5230a	R		N
+5230a	R	N	N
 5233a	B	N	N
 5235a	B	N	N
 5237a	B	E	E
-5240a	R		C
+5240a	R	C	C
 5241a	BR	N	N
 5243a	B	N	N
 5245a	B	N	N
-5250a	R		N
+5250a	R	N	N
 5252a	BR	N	N
 5257a	B	E	E
 5259a	B	N	E
@@ -2510,37 +2510,37 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5272a	BR	E	E
 5273a	BR	E	E
 5274a	BR	C	C
-5275a	R		E
+5275a	R	C	E
 5279a	B	E	E
 5280a	B	C	C
-5281a	R		E
+5281a	R	N	E
 5283a	BR	C	C
 5284a	B	E	E
-5285a	R		C
+5285a	R	C	C
 5286a	B	N	E
 5287a	B	N	C
 5289a	BR	N	N
 5290a	BR	N	E
-5292a	R		C
+5292a	R	C	C
 5293a	B	E	E
 5295a	BR	N	N
-5297a	R		N
-5299a	R		N
-5300a	R		E
+5297a	R	N	N
+5299a	R	N	N
+5300a	R	N	E
 5301a	BR	C	C
-5302a	R		E
+5302a	R	N	E
 5305a	BR	N	C
 5307a	BR	N	C
 5308a	BR	N	E
-5309a	R		E
-5312a	R		C
+5309a	R	N	E
+5312a	R	N	C
 5315a	BR	N	E
 5316a	BR	C	N
 5320a	BR	E	E
-5322a	R		N
+5322a	R	N	N
 5323a	BR	N	N
 5326a	BR	N	E
-5328a	R		C
+5328a	R	C	C
 5330a	B	N	N
 5331a	BR	E	E
 5332a	BR	N	N
@@ -2550,14 +2550,14 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5343a	B	N	N
 5344a	B	N	N
 5353a	B	E	E
-5354a	R		E
+5354a	R	N	E
 5355a	BR	C	C
-5360a	R		E
-5365a	R		N
+5360a	R	N	E
+5365a	R	N	N
 5366a	BR	C	C
 5367a	BR	N	N
-5368a	R		N
-5371a	R		N
+5368a	R	N	N
+5371a	R	N	N
 5375a	BR	C	C
 5381a	BR	E	E
 5386a	BR	N	N
@@ -2568,28 +2568,28 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5400a	BR	N	N
 5402a	BR	C	C
 5403a	BR	N	N
-5408a	R		E
+5408a	R	N	E
 5410a	B	E	E
 5412a	BR	N	N
-5413a	R		N
+5413a	R	N	N
 5416a	B	N	N
 5417a	BR	E	E
-5418a	R		C
-5421a	R		N
+5418a	R	C	C
+5421a	R	C	N
 5422a	BR	N	N
 5424a	B	N	N
-5425a	R		N
+5425a	R	N	N
 5428a	BR	E	E
 5430a	B	E	E
 5431a	B	C	N
 5433a	B	C	N
-5438a	R		C
-5441a	R		N
-5442a	R		N
+5438a	R	C	C
+5441a	R	N	N
+5442a	R	N	N
 5444a	BR	E	E
 5445a	BR	C	C
 5448a	BR	E	E
-5450a	R		E
+5450a	R	N	E
 5451a	BR	C	C
 5452a	BR	E	E
 5453a	BR	E	E
@@ -2597,7 +2597,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5469a	B	C	C
 5470a	BR	E	E
 5472a	BR	C	C
-5473a	R		E
+5473a	R	N	E
 5475a	BR	N	N
 5479a	BR	N	N
 5481a	BR	N	N
@@ -2607,8 +2607,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5486a	BR	N	N
 5488a	BR	N	N
 5490a	BR	C	C
-5493a	R		N
-5499a	R		C
+5493a	R	N	N
+5499a	R	C	C
 5506a	BR	N	N
 5509a	BR	E	E
 5511a	BR	E	E
@@ -2616,7 +2616,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5516a	B	E	E
 5517a	BR	C	C
 5519a	B	N	N
-5524a	R		N
+5524a	R	N	N
 5527a	B	E	E
 5528a	BR	C	C
 5529a	B	N	N
@@ -2625,7 +2625,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5541a	B	N	N
 5542a	B	N	N
 5543a	BR	E	E
-5544a	R		C
+5544a	R	C	C
 5547a	B	N	N
 5550a	B	N	N
 5551a	B	N	N
@@ -2638,7 +2638,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5570a	B	E	E
 5571a	BR	C	C
 5572a	BR	E	E
-5573a	R		N
+5573a	R	C	N
 5574a	BR	N	E
 5576a	BR	N	E
 5577a	B	N	C
@@ -2647,10 +2647,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5581a	B	E	E
 5583a	B	N	N
 5585a	BR	N	N
-5589a	R		C
+5589a	R	N	C
 5590a	BR	E	N
 5592a	BR	N	N
-5594a	R		N
+5594a	R	N	N
 5596a	BR	N	E
 5597a	BR	E	E
 5598a	BR	C	C
@@ -2662,7 +2662,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5611a	B	N	N
 5616a	BR	C	C
 5622a	B	C	C
-5625a	R		N
+5625a	R	N	N
 5626a	BR	N	E
 5628a	BR	N	N
 5629a	BR	N	N
@@ -2671,31 +2671,31 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5635a	B	E	E
 5636a	BR	C	C
 5638a	B	C	N
-5639a	R		E
+5639a	R	N	E
 5644a	BR	E	E
-5650a	R		N
+5650a	R	N	N
 5652a	BR	C	C
 5655a	BR	N	N
-5658a	R		N
+5658a	R	N	N
 5660a	BR	E	E
-5661a	R		C
+5661a	R	C	C
 5662a	BR	E	E
 5665a	BR	N	N
 5666a	BR	N	N
 5667a	B	N	N
-5669a	R		E
-5670a	R		N
-5672a	R		N
+5669a	R	E	E
+5670a	R	N	N
+5672a	R	E	N
 5673a	BR	E	E
-5674a	R		N
+5674a	R	E	N
 5681a	BR	C	C
-5682a	R		N
+5682a	R	N	N
 5684a	B	N	N
-5685a	R		N
+5685a	R	N	N
 5686a	B	N	N
 5688a	BR	C	C
 5689a	B	E	E
-5690a	R		C
+5690a	R	C	C
 5692a	BR	N	N
 5699a	BR	C	C
 5700a	B	N	N
@@ -2704,50 +2704,50 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5704a	B	E	E
 5705a	BR	E	E
 5707a	BR	E	E
-5708a	R		C
-5709a	R		E
-5711a	R		E
+5708a	R	C	C
+5709a	R	E	E
+5711a	R	E	E
 5713a	BR	E	E
 5714a	BR	E	N
-5715a	R		C
+5715a	R	C	C
 5716a	B	E	E
 5719a	BR	N	N
 5720a	BR	N	N
-5721a	R		N
+5721a	R	N	N
 5723a	B	E	E
 5724a	BR	C	C
 5726a	BR	C	C
-5727a	R		E
+5727a	R	C	E
 5729a	B	E	E
-5730a	R		N
-5731a	R		C
+5730a	R	E	N
+5731a	R	C	C
 5734a	B	E	E
 5735a	BR	N	N
-5738a	R		N
-5743a	R		E
+5738a	R	C	N
+5743a	R	N	E
 5746a	BR	N	N
 5748a	B	N	N
-5754a	R		N
+5754a	R	C	N
 5757a	B	N	N
-5759a	R		E
+5759a	R	C	E
 5760a	BR	N	N
-5763a	R		C
+5763a	R	C	C
 5766a	BR	N	N
-5767a	R		N
-5769a	R		N
+5767a	R	N	N
+5769a	R	N	N
 5771a	BR	C	C
 5774a	BR	E	N
 5775a	B	N	N
 5778a	B	E	E
 5780a	BR	N	N
-5782a	R		C
+5782a	R	C	C
 5783a	BR	N	N
 5784a	B	N	N
 5785a	B	N	N
 5786a	BR	N	N
 5789a	BR	C	C
-5790a	R		E
-5793a	R		N
+5790a	R	N	E
+5793a	R	C	N
 5795a	BR	C	C
 5796a	B	E	E
 5798a	BR	C	C
@@ -2756,33 +2756,33 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5803a	B	N	N
 5804a	BR	N	N
 5805a	BR	N	N
-5807a	R		C
+5807a	R	C	C
 5808a	BR	E	E
 5809a	BR	E	C
 5814a	B	N	N
-5817a	R		N
-5818a	R		C
-5830a	R		N
+5817a	R	N	N
+5818a	R	C	C
+5830a	R	N	N
 5831a	B	E	N
 5832a	B	N	N
 5833a	BR	N	N
 5837a	BR	N	N
 5838a	B	N	N
 5840a	B	N	N
-5843a	R		C
+5843a	R	C	C
 5844a	B	E	E
-5849a	R		C
-5858a	R		N
+5849a	R	C	C
+5858a	R	N	N
 5862a	BR	E	E
-5863a	R		C
+5863a	R	C	C
 5866a	B	E	E
 5868a	B	E	E
 5869a	BR	E	E
 5870a	BR	N	N
-5871a	R		E
+5871a	R	N	E
 5873a	BR	E	N
 5877a	BR	E	E
-5878a	R		E
+5878a	R	N	E
 5880a	BR	E	E
 5881a	B	N	N
 5884a	BR	E	N
@@ -2799,7 +2799,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5912a	B	N	N
 5913a	B	N	N
 5915a	BR	N	N
-5916a	R		E
+5916a	R	N	E
 5917a	BR	C	C
 5921a	BR	N	N
 5925a	BR	N	E
@@ -2810,25 +2810,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5933a	BR	N	N
 5934a	BR	E	E
 5935a	BR	C	C
-5939a	R		N
+5939a	R	N	N
 5940a	B	E	N
 5942a	BR	C	C
-5945a	R		N
+5945a	R	N	N
 5946a	BR	N	N
 5949a	BR	N	N
-5950a	R		N
+5950a	R	N	N
 5951a	BR	N	N
 5953a	BR	C	C
 5954a	B	E	E
-5957a	R		N
+5957a	R	N	N
 5958a	BR	E	N
 5959a	B	C	N
-5961a	R		E
+5961a	R	N	E
 5962a	B	N	N
-5963a	R		N
+5963a	R	N	N
 5967a	BR	N	N
 5969a	BR	N	N
-5971a	R		N
+5971a	R	N	N
 5972a	BR	E	E
 5973a	BR	N	N
 5974a	B	N	N
@@ -2836,9 +2836,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 5981a	BR	N	N
 5984a	B	E	N
 5985a	BR	E	E
-5993a	R		N
+5993a	R	N	N
 5994a	B	E	E
-5995a	R		C
+5995a	R	C	C
 5997a	BR	C	C
 5998a	B	N	N
 5999a	B	N	N
@@ -2850,7 +2850,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6010a	BR	N	N
 6011a	BR	N	N
 6012a	B	N	N
-6013a	R		N
+6013a	R	N	N
 6016a	B	N	N
 6018a	BR	N	N
 6019a	BR	N	N
@@ -2859,13 +2859,13 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6024a	BR	N	N
 6025a	BR	E	E
 6026a	BR	C	C
-6031a	R		N
-6033a	R		N
-6034a	R		N
+6031a	R	N	N
+6033a	R	N	N
+6034a	R	N	N
 6036a	BR	E	E
 6039a	BR	N	N
-6040a	R		N
-6043a	R		N
+6040a	R	N	N
+6043a	R	N	N
 6046a	B	N	N
 6048a	BR	N	N
 6049a	BR	N	N
@@ -2874,7 +2874,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6058a	BR	N	N
 6059a	BR	N	N
 6062a	BR	N	N
-6063a	R		E
+6063a	R	N	E
 6064a	BR	C	C
 6066a	B	N	N
 6067a	BR	N	N
@@ -2890,19 +2890,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6089a	BR	N	N
 6090a	BR	N	N
 6091a	BR	N	N
-6094a	R		E
+6094a	R	N	E
 6097a	BR	C	N
 6100a	BR	N	E
 6102a	BR	N	N
-6107a	R		N
+6107a	R	N	N
 6110a	B	N	N
 6111a	B	N	N
 6113a	B	N	N
 6114a	B	E	E
 6115a	B	N	N
 6116a	B	E	E
-6118a	R		E
-6121a	R		N
+6118a	R	N	E
+6121a	R	N	N
 6124a	BR	C	C
 6125a	B	E	E
 6126a	BR	N	C
@@ -2927,14 +2927,14 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6167a	BR	N	N
 6168a	BR	N	N
 6172a	BR	E	N
-6173a	R		E
+6173a	R	C	E
 6177a	BR	N	N
 6181a	BR	N	N
 6182a	BR	N	N
-6184a	R		C
+6184a	R	C	C
 6189a	BR	N	N
 6190a	BR	N	N
-6192a	R		E
+6192a	R	N	E
 6196a	BR	N	N
 6201a	BR	E	E
 6204a	B	E	E
@@ -2953,28 +2953,28 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6235a	BR	N	N
 6237a	BR	N	N
 6238a	BR	N	N
-6240a	R		N
-6244a	R		N
-6245a	R		N
-6247a	R		N
-6251a	R		C
-6252a	R		N
+6240a	R	N	N
+6244a	R	N	N
+6245a	R	N	N
+6247a	R	N	N
+6251a	R	N	C
+6252a	R	N	N
 6254a	BR	N	N
-6255a	R		N
+6255a	R	N	N
 6256a	BR	E	N
 6257a	B	C	C
 6260a	B	C	C
 6261a	BR	E	E
 6262a	BR	N	N
 6264a	B	N	N
-6265a	R		E
+6265a	R	N	E
 6268a	BR	E	E
 6269a	BR	C	C
 6270a	B	E	E
 6271a	BR	N	N
 6273a	B	N	N
 6274a	B	N	N
-6275a	R		N
+6275a	R	N	N
 6276a	B	N	N
 6277a	B	E	E
 6279a	B	E	C
@@ -2983,17 +2983,17 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6283a	BR	N	N
 6284a	BR	E	E
 6285a	B	N	N
-6289a	R		C
+6289a	R	C	C
 6294a	B	N	N
 6296a	BR	N	N
-6298a	R		N
-6303a	R		N
-6304a	R		N
+6298a	R	N	N
+6303a	R	N	N
+6304a	R	N	N
 6312a	B	N	N
 6314a	B	N	N
-6320a	R		N
-6322a	R		N
-6323a	R		N
+6320a	R	N	N
+6322a	R	N	N
+6323a	R	N	N
 6324a	B	E	E
 6325a	BR	C	C
 6328a	B	N	C
@@ -3003,17 +3003,17 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6339a	BR	C	C
 6340a	B	N	N
 6341a	B	C	N
-6343a	R		C
+6343a	R	N	C
 6351a	B	C	N
-6352a	R		N
-6354a	R		N
+6352a	R	N	N
+6354a	R	N	N
 6355a	B	E	E
 6356a	BR	N	C
 6361a	B	E	N
 6364a	B	E	E
 6365a	BR	E	C
 6367a	BR	C	C
-6369a	R		N
+6369a	R	N	N
 6371a	BR	N	N
 6374a	B	N	N
 6376a	BR	N	N
@@ -3022,7 +3022,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6380a	BR	N	N
 6383a	B	N	N
 6384a	B	N	N
-6388a	R		E
+6388a	R	N	E
 6389a	BR	C	C
 6391a	BR	N	N
 6393a	BR	N	N
@@ -3034,25 +3034,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6406a	B	E	N
 6408a	B	E	N
 6409a	BR	N	N
-6410a	R		N
+6410a	R	N	N
 6413a	BR	N	N
-6414a	R		N
+6414a	R	N	N
 6415a	BR	E	E
 6416a	B	C	C
 6418a	BR	N	N
-6422a	R		N
-6425a	R		N
+6422a	R	N	N
+6425a	R	N	N
 6427a	BR	C	C
 6428a	BR	E	E
-6430a	R		N
+6430a	R	N	N
 6431a	BR	N	N
 6433a	B	N	N
 6435a	B	N	N
 6436a	B	N	N
 6437a	B	E	E
-6438a	R		C
+6438a	R	C	C
 6439a	B	E	E
-6440a	R		N
+6440a	R	C	N
 6441a	BR	N	N
 6442a	BR	N	N
 6445a	BR	N	N
@@ -3067,17 +3067,17 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6461a	BR	N	N
 6462a	B	N	N
 6464a	B	N	N
-6465a	R		N
-6466a	R		N
+6465a	R	N	N
+6466a	R	N	N
 6472a	B	N	N
 6473a	B	N	N
 6474a	B	E	E
-6475a	R		N
+6475a	R	N	N
 6476a	B	E	E
 6479a	B	E	E
 6481a	B	N	N
 6483a	B	N	N
-6484a	R		N
+6484a	R	N	N
 6485a	B	N	E
 6486a	BR	E	E
 6487a	BR	N	N
@@ -3089,7 +3089,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6502a	BR	N	N
 6503a	BR	N	N
 6504a	B	N	N
-6505a	R		N
+6505a	R	N	N
 6507a	BR	C	C
 6509a	BR	C	C
 6512a	BR	N	N
@@ -3106,30 +3106,30 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6528a	B	E	E
 6530a	B	E	N
 6533a	B	N	N
-6534a	R		N
-6537a	R		E
+6534a	R	N	N
+6537a	R	N	E
 6538a	BR	C	C
 6541a	B	E	E
-6542a	R		C
-6547a	R		C
-6551a	R		N
+6542a	R	N	C
+6547a	R	C	C
+6551a	R	N	N
 6553a	B	N	N
-6556a	R		C
+6556a	R	N	C
 6560a	B	N	N
 6561a	BR	N	N
 6562a	BR	N	N
 6564a	BR	E	E
-6570a	R		N
+6570a	R	N	N
 6571a	BR	N	N
-6573a	R		E
-6574a	R		N
+6573a	R	N	E
+6574a	R	N	N
 6581a	B	N	N
-6583a	R		N
+6583a	R	N	N
 6585a	B	N	N
 6586a	B	E	E
 6587a	B	E	C
 6594a	B	N	N
-6596a	R		C
+6596a	R	C	C
 6601a	B	N	N
 6602a	B	E	E
 6608a	BR	N	N
@@ -3141,19 +3141,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6621a	BR	N	N
 6622a	B	E	E
 6623a	BR	C	C
-6624a	R		N
+6624a	R	N	N
 6627a	B	N	N
 6628a	B	N	N
 6629a	B	E	E
 6630a	BR	C	C
 6633a	B	N	N
 6636a	BR	N	N
-6637a	R		C
+6637a	R	E	C
 6639a	B	N	E
-6641a	R		C
+6641a	R	C	C
 6642a	BR	E	E
 6643a	BR	C	C
-6645a	R		N
+6645a	R	N	N
 6650a	B	N	N
 6651a	B	E	E
 6652a	BR	N	N
@@ -3170,22 +3170,22 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6672a	BR	C	C
 6676a	BR	N	N
 6677a	BR	N	N
-6679a	R		N
+6679a	R	C	N
 6680a	B	E	E
 6681a	B	C	C
-6682a	R		N
-6685a	R		N
-6686a	R		N
-6689a	R		E
+6682a	R	N	N
+6685a	R	N	N
+6686a	R	N	N
+6689a	R	N	E
 6690a	B	C	C
 6691a	BR	N	E
 6693a	BR	N	E
 6699a	BR	C	C
 6702a	B	N	N
-6703a	R		N
-6704a	R		N
+6703a	R	N	N
+6704a	R	N	N
 6706a	B	N	N
-6707a	R		E
+6707a	R	N	E
 6708a	BR	C	C
 6710a	B	N	N
 6712a	BR	N	N
@@ -3196,10 +3196,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6722a	BR	N	N
 6724a	BR	N	N
 6726a	B	C	C
-6727a	R		E
+6727a	R	N	E
 6730a	BR	N	N
 6732a	BR	N	N
-6734a	R		E
+6734a	R	N	E
 6737a	BR	C	C
 6739a	BR	N	N
 6741a	BR	N	N
@@ -3213,8 +3213,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6767a	BR	C	C
 6774a	BR	E	E
 6776a	BR	E	E
-6779a	R		N
-6780a	R		N
+6779a	R	N	N
+6780a	R	N	N
 6782a	B	N	N
 6783a	B	E	E
 6785a	BR	E	E
@@ -3227,19 +3227,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6794a	BR	E	E
 6795a	BR	N	N
 6796a	BR	N	N
-6797a	R		N
-6798a	R		N
+6797a	R	N	N
+6798a	R	N	N
 6801a	BR	E	E
-6803a	R		N
+6803a	R	N	N
 6806a	BR	N	N
 6807a	BR	N	N
 6808a	BR	N	N
 6809a	BR	N	N
 6811a	BR	N	N
 6815a	B	E	N
-6817a	R		N
-6818a	R		N
-6820a	R		E
+6817a	R	N	N
+6818a	R	N	N
+6820a	R	N	E
 6821a	BR	E	E
 6823a	B	N	N
 6826a	BR	N	N
@@ -3249,13 +3249,13 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6831a	BR	N	N
 6832a	BR	E	E
 6835a	BR	C	C
-6836a	R		N
+6836a	R	N	N
 6837a	BR	N	N
-6838a	R		N
-6839a	R		N
+6838a	R	N	N
+6839a	R	N	N
 6841a	BR	E	E
 6842a	B	N	N
-6844a	R		N
+6844a	R	C	N
 6846a	B	N	N
 6848a	B	N	N
 6850a	B	N	N
@@ -3263,34 +3263,34 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6853a	BR	N	N
 6854a	B	E	E
 6856a	B	N	E
-6858a	R		N
+6858a	R	N	N
 6859a	BR	N	N
 6860a	BR	N	E
 6861a	BR	E	E
 6864a	BR	C	C
-6867a	R		N
+6867a	R	N	N
 6871a	BR	N	N
-6872a	R		E
+6872a	R	N	E
 6873a	BR	C	C
 6874a	BR	N	E
 6876a	B	N	N
 6878a	B	N	E
 6881a	B	E	E
 6882a	BR	N	N
-6883a	R		N
-6886a	R		N
+6883a	R	N	N
+6886a	R	N	N
 6888a	B	E	E
 6889a	BR	C	C
-6891a	R		N
-6892a	R		N
+6891a	R	N	N
+6892a	R	N	N
 6893a	B	N	N
 6895a	B	N	N
 6898a	B	C	C
 6900a	BR	C	C
-6904a	R		N
+6904a	R	N	N
 6906a	B	E	E
 6908a	B	E	E
-6909a	R		C
+6909a	R	C	C
 6910a	BR	N	N
 6911a	B	N	N
 6915a	BR	E	E
@@ -3306,15 +3306,15 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6936a	B	N	N
 6937a	B	N	N
 6938a	B	E	E
-6939a	R		N
+6939a	R	C	N
 6941a	BR	N	N
 6943a	BR	N	N
 6944a	BR	N	N
-6949a	R		C
+6949a	R	C	C
 6951a	BR	N	N
 6952a	BR	N	N
 6953a	BR	N	N
-6954a	R		N
+6954a	R	N	N
 6956a	BR	N	N
 6959a	BR	E	E
 6960a	B	N	N
@@ -3325,7 +3325,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6972a	B	N	N
 6973a	BR	N	N
 6976a	B	N	N
-6977a	R		N
+6977a	R	N	N
 6984a	BR	N	N
 6985a	BR	N	N
 6986a	BR	N	N
@@ -3335,43 +3335,43 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 6999a	B	E	E
 7003a	BR	N	N
 7010a	B	N	E
-7011a	R		C
-7012a	R		E
-7014a	R		E
+7011a	R	N	C
+7012a	R	N	E
+7014a	R	N	E
 7015a	B	E	E
 7017a	BR	N	N
 7023a	BR	N	N
 7024a	BR	N	N
 7029a	BR	C	C
 7030a	BR	N	N
-7031a	R		N
+7031a	R	N	N
 7032a	BR	N	E
 7033a	B	N	N
 7034a	BR	N	N
 7036a	B	C	N
-7037a	R		N
+7037a	R	N	N
 7038a	BR	E	E
 7039a	BR	C	C
 7041a	BR	N	N
 7042a	BR	N	N
-7046a	R		E
+7046a	R	N	E
 7047a	B	C	C
 7048a	BR	E	E
 7049a	BR	C	C
 7050a	B	N	N
-7051a	R		N
-7052a	R		N
-7053a	R		N
+7051a	R	N	N
+7052a	R	N	N
+7053a	R	N	N
 7055a	B	E	E
-7057a	R		E
-7059a	R		E
+7057a	R	N	E
+7059a	R	C	E
 7062a	BR	N	N
 7065a	BR	C	C
 7067a	BR	N	N
 7068a	B	N	N
 7069a	BR	N	N
 7071a	BR	N	N
-7072a	R		N
+7072a	R	N	N
 7073a	B	E	E
 7075a	B	E	E
 7076a	BR	C	C
@@ -3386,10 +3386,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7098a	BR	E	N
 7102a	B	E	E
 7106a	BR	E	N
-7107a	R		N
-7109a	R		N
+7107a	R	N	N
+7109a	R	N	N
 7111a	B	N	N
-7112a	R		N
+7112a	R	N	N
 7113a	B	E	E
 7114a	BR	C	C
 7115a	BR	E	E
@@ -3412,20 +3412,20 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7148a	BR	N	N
 7149a	BR	N	N
 7151a	BR	N	N
-7152a	R		N
+7152a	R	N	N
 7154a	BR	C	C
-7157a	R		N
-7158a	R		E
+7157a	R	N	N
+7158a	R	C	E
 7159a	BR	E	N
-7160a	R		N
+7160a	R	N	N
 7162a	BR	E	E
 7163a	BR	C	C
 7167a	B	N	N
 7168a	BR	N	N
 7169a	B	N	N
-7170a	R		N
+7170a	R	N	N
 7171a	BR	N	N
-7172a	R		N
+7172a	R	N	N
 7173a	B	E	E
 7174a	B	N	N
 7175a	B	E	E
@@ -3444,33 +3444,33 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7191a	B	N	C
 7192a	BR	N	E
 7193a	B	E	E
-7194a	R		C
+7194a	R	C	C
 7195a	BR	E	E
 7197a	B	N	N
 7198a	BR	N	N
-7199a	R		N
+7199a	R	N	N
 7201a	B	N	N
 7202a	B	E	E
 7203a	BR	C	C
 7206a	B	E	N
-7207a	R		N
+7207a	R	N	N
 7212a	B	N	E
 7215a	BR	E	E
 7216a	BR	N	N
 7220a	B	N	N
-7223a	R		N
+7223a	R	N	N
 7225a	BR	E	E
 7227a	B	N	N
 7231a	BR	N	N
-7232a	R		N
+7232a	R	N	N
 7233a	BR	E	E
 7236a	BR	E	E
-7238a	R		N
+7238a	R	N	N
 7243a	BR	N	N
 7244a	B	E	E
-7245a	R		C
+7245a	R	C	C
 7247a	B	N	N
-7248a	R		N
+7248a	R	N	N
 7249a	B	N	N
 7250a	BR	N	N
 7251a	BR	N	N
@@ -3483,22 +3483,22 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7259a	BR	E	E
 7260a	BR	N	E
 7261a	BR	N	C
-7263a	R		E
-7264a	R		N
-7265a	R		E
+7263a	R	N	E
+7264a	R	N	N
+7265a	R	N	E
 7266a	B	E	E
 7272a	B	E	E
 7273a	BR	C	N
 7275a	B	E	E
 7278a	BR	C	C
 7279a	B	N	E
-7283a	R		N
+7283a	R	N	N
 7284a	B	E	N
-7285a	R		C
+7285a	R	C	C
 7286a	B	E	E
-7288a	R		N
+7288a	R	C	N
 7289a	BR	N	N
-7290a	R		N
+7290a	R	N	N
 7295a	BR	E	E
 7296a	BR	N	N
 7297a	BR	E	E
@@ -3521,12 +3521,12 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7328a	BR	N	N
 7329a	BR	N	N
 7330a	B	N	N
-7331a	R		N
+7331a	R	N	N
 7333a	BR	N	N
 7336a	BR	C	C
-7337a	R		E
-7338a	R		N
-7339a	R		N
+7337a	R	C	E
+7338a	R	C	N
+7339a	R	N	N
 7341a	BR	N	N
 7342a	BR	N	N
 7345a	BR	N	N
@@ -3546,38 +3546,38 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7379a	BR	E	E
 7380a	BR	C	C
 7382a	B	N	C
-7384a	R		N
+7384a	R	N	N
 7385a	BR	N	E
 7387a	BR	N	N
 7393a	B	N	N
 7395a	BR	E	E
-7396a	R		C
+7396a	R	C	C
 7400a	BR	N	N
 7401a	BR	N	N
 7403a	BR	N	N
 7405a	BR	C	C
 7406a	B	E	E
 7407a	BR	N	N
-7408a	R		N
-7409a	R		N
-7412a	R		N
+7408a	R	N	N
+7409a	R	N	N
+7412a	R	N	N
 7413a	B	E	E
-7415a	R		N
+7415a	R	C	N
 7421a	BR	C	C
 7424a	B	E	E
 7425a	B	N	N
-7426a	R		E
+7426a	R	N	E
 7429a	BR	N	N
 7430a	B	N	N
-7431a	R		N
+7431a	R	N	N
 7433a	BR	E	E
 7435a	BR	E	N
 7436a	BR	C	C
 7439a	BR	N	N
 7440a	BR	N	N
-7442a	R		E
+7442a	R	N	E
 7443a	BR	N	N
-7447a	R		C
+7447a	R	N	C
 7449a	BR	N	N
 7450a	BR	N	N
 7453a	B	N	N
@@ -3590,7 +3590,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7469a	BR	E	E
 7473a	B	N	E
 7478a	BR	C	C
-7480a	R		N
+7480a	R	C	N
 7482a	BR	N	N
 7484a	B	N	N
 7488a	BR	E	E
@@ -3599,15 +3599,15 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7494a	BR	N	N
 7495a	B	E	E
 7498a	BR	C	C
-7500a	R		N
+7500a	R	N	N
 7502a	B	N	N
-7510a	R		E
+7510a	R	N	E
 7512a	B	N	N
 7513a	B	N	N
-7514a	R		N
+7514a	R	N	N
 7515a	B	E	E
 7517a	B	E	E
-7518a	R		C
+7518a	R	C	C
 7519a	B	N	N
 7520a	BR	N	N
 7521a	B	N	N
@@ -3617,7 +3617,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7529a	BR	N	N
 7530a	BR	N	N
 7531a	B	N	N
-7535a	R		E
+7535a	R	N	E
 7536a	BR	N	N
 7538a	B	E	E
 7540a	B	N	N
@@ -3634,34 +3634,34 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7575a	B	N	E
 7578a	BR	E	E
 7579a	B	N	N
-7584a	R		N
+7584a	R	N	N
 7585a	B	E	E
 7586a	BR	E	E
 7589a	BR	C	C
 7591a	BR	N	N
 7592a	B	N	N
-7593a	R		N
+7593a	R	N	N
 7595a	B	N	E
 7596a	BR	C	C
-7597a	R		E
+7597a	R	N	E
 7598a	BR	E	E
 7600a	BR	E	E
 7601a	BR	N	N
 7602a	BR	N	N
-7604a	R		N
+7604a	R	N	N
 7605a	BR	E	E
 7607a	B	E	C
 7610a	BR	N	N
 7614a	BR	N	N
 7615a	BR	E	E
 7617a	BR	E	N
-7620a	R		N
-7621a	R		N
+7620a	R	N	N
+7621a	R	N	N
 7623a	B	N	N
 7624a	B	N	N
 7626a	BR	E	E
 7627a	BR	C	C
-7628a	R		N
+7628a	R	N	N
 7631a	B	N	N
 7632a	BR	N	E
 7633a	BR	C	N
@@ -3671,19 +3671,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7644a	BR	N	N
 7645a	BR	N	N
 7646a	BR	E	E
-7650a	R		E
+7650a	R	N	E
 7655a	BR	E	E
 7656a	BR	N	N
 7661a	BR	N	N
-7663a	R		N
+7663a	R	N	N
 7664a	BR	N	N
-7671a	R		N
-7673a	R		N
+7671a	R	N	N
+7673a	R	N	N
 7674a	B	E	E
 7676a	BR	C	C
 7679a	B	N	N
-7683a	R		N
-7684a	R		N
+7683a	R	N	N
+7684a	R	N	N
 7685a	B	N	N
 7686a	BR	E	E
 7690a	BR	E	N
@@ -3696,7 +3696,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7704a	B	N	N
 7705a	B	N	N
 7706a	BR	E	E
-7708a	R		E
+7708a	R	N	E
 7709a	BR	C	C
 7710a	B	E	N
 7713a	BR	N	N
@@ -3705,7 +3705,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7721a	BR	N	N
 7725a	B	E	N
 7727a	B	E	E
-7730a	R		N
+7730a	R	N	N
 7735a	BR	E	E
 7736a	BR	C	C
 7737a	BR	E	E
@@ -3713,7 +3713,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7745a	BR	C	C
 7748a	BR	N	C
 7749a	BR	N	N
-7750a	R		N
+7750a	R	N	N
 7756a	B	N	N
 7758a	BR	C	C
 7759a	BR	E	E
@@ -3726,10 +3726,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7773a	B	E	N
 7774a	B	E	E
 7775a	B	C	C
-7783a	R		N
+7783a	R	N	N
 7786a	B	E	E
 7788a	B	E	E
-7789a	R		C
+7789a	R	N	C
 7791a	BR	N	N
 7796a	BR	C	C
 7797a	BR	E	E
@@ -3740,20 +3740,20 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7803a	BR	N	N
 7806a	BR	E	E
 7809a	B	C	N
-7812a	R		N
+7812a	R	N	N
 7814a	BR	C	C
 7815a	BR	N	N
 7816a	BR	N	N
-7818a	R		N
+7818a	R	N	N
 7824a	B	E	E
 7825a	BR	N	N
-7826a	R		N
+7826a	R	N	N
 7827a	B	N	N
-7828a	R		N
-7829a	R		N
-7830a	R		N
+7828a	R	N	N
+7829a	R	N	N
+7830a	R	N	N
 7831a	BR	E	E
-7832a	R		N
+7832a	R	N	N
 7833a	B	E	E
 7835a	B	E	E
 7837a	BR	E	E
@@ -3766,29 +3766,29 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7850a	BR	C	C
 7852a	BR	C	C
 7853a	BR	N	N
-7854a	R		N
+7854a	R	N	N
 7855a	BR	N	N
-7856a	R		N
+7856a	R	N	N
 7857a	B	N	N
 7858a	B	E	E
 7860a	B	E	E
 7862a	B	N	N
 7863a	BR	N	N
-7865a	R		N
-7870a	R		E
-7871a	R		C
-7873a	R		N
-7874a	R		N
+7865a	R	N	N
+7870a	R	N	E
+7871a	R	C	C
+7873a	R	N	N
+7874a	R	N	N
 7879a	B	C	C
 7880a	BR	E	E
-7882a	R		E
+7882a	R	N	E
 7883a	B	E	E
 7885a	B	C	C
 7886a	B	E	E
 7894a	BR	C	N
 7895a	B	N	N
 7897a	BR	C	C
-7901a	R		N
+7901a	R	N	N
 7904a	BR	N	N
 7905a	BR	E	E
 7907a	B	E	N
@@ -3801,7 +3801,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7916a	BR	E	E
 7918a	BR	E	E
 7919a	BR	C	C
-7920a	R		N
+7920a	R	N	N
 7922a	B	N	E
 7924a	B	E	E
 7928a	BR	C	C
@@ -3811,7 +3811,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7941a	BR	N	N
 7942a	B	N	N
 7943a	B	E	E
-7944a	R		C
+7944a	R	N	C
 7945a	B	E	E
 7948a	BR	N	N
 7952a	B	E	E
@@ -3828,7 +3828,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 7974a	B	E	E
 7975a	BR	N	N
 7978a	B	N	N
-7979a	R		N
+7979a	R	N	N
 7982a	BR	N	C
 7983a	BR	N	N
 7984a	BR	C	C
@@ -3839,7 +3839,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8000a	B	N	N
 8001a	BR	E	E
 8003a	B	E	E
-8004a	R		N
+8004a	R	N	N
 8007a	BR	N	N
 8008a	B	N	N
 8009a	BR	N	N
@@ -3852,24 +3852,24 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8020a	BR	N	N
 8022a	BR	N	N
 8023a	B	E	E
-8026a	R		N
-8027a	R		E
-8030a	R		E
-8033a	R		N
+8026a	R	N	N
+8027a	R	N	E
+8030a	R	N	E
+8033a	R	N	N
 8034a	B	N	N
 8035a	BR	N	N
 8036a	BR	N	N
 8042a	B	N	N
-8043a	R		N
-8045a	R		N
+8043a	R	N	N
+8045a	R	N	N
 8046a	BR	E	E
 8048a	B	E	E
 8051a	B	N	N
 8052a	B	N	N
 8053a	B	N	N
 8054a	B	N	E
-8056a	R		N
-8061a	R		N
+8056a	R	N	N
+8061a	R	N	N
 8062a	BR	N	N
 8063a	BR	N	N
 8066a	BR	N	N
@@ -3885,8 +3885,8 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8086a	BR	N	N
 8087a	BR	E	N
 8088a	B	E	E
-8097a	R		N
-8098a	R		N
+8097a	R	C	N
+8098a	R	N	N
 8099a	B	N	N
 8100a	BR	E	E
 8101a	BR	C	C
@@ -3903,7 +3903,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8118a	BR	E	E
 8123a	BR	N	N
 8125a	BR	N	N
-8128a	R		N
+8128a	R	N	N
 8131a	BR	N	N
 8132a	BR	N	N
 8133a	BR	N	N
@@ -3912,27 +3912,27 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8140a	B	N	N
 8142a	BR	N	N
 8144a	BR	N	N
-8146a	R		C
-8148a	R		N
+8146a	R	C	C
+8148a	R	N	N
 8149a	B	N	N
-8150a	R		N
+8150a	R	N	N
 8151a	B	N	N
 8153a	B	N	N
 8154a	B	E	E
 8160a	BR	N	E
 8164a	BR	E	N
-8166a	R		C
+8166a	R	N	C
 8167a	BR	N	N
 8169a	BR	N	N
 8170a	BR	N	N
 8171a	BR	N	N
 8172a	B	E	E
 8174a	BR	N	E
-8176a	R		N
+8176a	R	N	N
 8178a	BR	N	N
 8181a	BR	N	E
 8182a	BR	E	C
-8183a	R		E
+8183a	R	N	E
 8185a	BR	E	N
 8188a	BR	E	N
 8197a	BR	N	N
@@ -3944,7 +3944,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8207a	BR	E	N
 8208a	B	E	E
 8209a	BR	E	N
-8214a	R		N
+8214a	R	N	N
 8218a	BR	N	N
 8221a	BR	N	N
 8222a	BR	N	N
@@ -3952,7 +3952,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8226a	B	E	E
 8229a	BR	N	N
 8231a	BR	N	N
-8232a	R		N
+8232a	R	N	N
 8234a	BR	E	N
 8235a	B	E	E
 8236a	BR	E	N
@@ -3970,13 +3970,13 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8253a	BR	E	E
 8254a	BR	E	N
 8255a	BR	E	E
-8256a	R		N
+8256a	R	N	N
 8257a	B	N	E
-8259a	R		N
+8259a	R	N	N
 8260a	B	N	N
 8261a	B	N	N
 8262a	BR	E	E
-8265a	R		C
+8265a	R	C	C
 8268a	BR	N	E
 8270a	BR	N	E
 8271a	BR	N	E
@@ -3984,22 +3984,22 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8275a	BR	N	C
 8278a	BR	N	N
 8279a	BR	N	N
-8280a	R		E
+8280a	R	N	E
 8284a	BR	N	N
 8286a	BR	N	E
 8287a	BR	N	N
 8290a	BR	C	C
 8291a	B	E	E
-8292a	R		C
-8293a	R		N
+8292a	R	C	C
+8293a	R	N	N
 8295a	BR	N	N
-8297a	R		N
-8298a	R		E
+8297a	R	N	N
+8298a	R	N	E
 8299a	B	N	C
 8301a	BR	C	C
 8302a	B	E	E
-8303a	R		N
-8308a	R		C
+8303a	R	N	N
+8308a	R	C	C
 8309a	B	E	E
 8310a	B	N	C
 8311a	BR	N	N
@@ -4010,46 +4010,46 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8322a	BR	N	N
 8324a	BR	N	N
 8332a	BR	N	N
-8337a	R		C
-8341a	R		N
+8337a	R	C	C
+8341a	R	N	N
 8342a	BR	E	E
 8344a	BR	C	C
 8346a	BR	E	N
 8348a	BR	N	N
-8350a	R		N
-8353a	R		C
-8354a	R		E
-8357a	R		N
+8350a	R	N	N
+8353a	R	C	C
+8354a	R	N	E
+8357a	R	N	N
 8359a	BR	N	N
-8361a	R		N
+8361a	R	N	N
 8364a	BR	N	C
-8365a	R		N
-8369a	R		N
+8365a	R	N	N
+8369a	R	N	N
 8370a	BR	E	E
 8371a	BR	C	C
 8372a	BR	E	E
 8373a	BR	N	N
 8378a	B	N	N
 8380a	BR	N	N
-8382a	R		N
+8382a	R	N	N
 8385a	BR	N	N
 8386a	BR	N	N
 8387a	BR	E	N
 8390a	B	E	E
-8391a	R		N
+8391a	R	C	N
 8392a	BR	N	N
 8393a	BR	N	N
 8394a	BR	N	N
 8395a	BR	N	N
 8397a	BR	E	E
-8399a	R		E
+8399a	R	N	E
 8401a	B	N	N
 8402a	B	C	N
 8403a	B	N	N
 8405a	B	N	N
 8408a	BR	E	E
 8410a	BR	E	E
-8411a	R		N
+8411a	R	C	N
 8413a	BR	E	E
 8414a	BR	E	E
 8415a	BR	E	E
@@ -4058,25 +4058,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8420a	BR	N	N
 8422a	BR	N	N
 8423a	BR	N	N
-8427a	R		C
+8427a	R	C	C
 8428a	B	N	N
 8429a	BR	N	N
 8432a	BR	N	N
 8433a	B	E	E
 8436a	BR	C	C
-8438a	R		N
+8438a	R	C	N
 8439a	BR	N	N
 8440a	BR	N	N
-8442a	R		N
-8443a	R		C
-8445a	R		N
+8442a	R	N	N
+8443a	R	C	C
+8445a	R	C	N
 8447a	BR	N	N
 8448a	BR	N	N
 8450a	BR	E	N
-8454a	R		C
-8463a	R		C
+8454a	R	C	C
+8463a	R	C	C
 8464a	B	N	N
-8465a	R		N
+8465a	R	N	N
 8466a	BR	N	N
 8467a	B	N	N
 8468a	B	N	N
@@ -4089,13 +4089,13 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8487a	BR	E	E
 8488a	BR	N	N
 8491a	BR	N	N
-8495a	R		N
+8495a	R	E	N
 8496a	BR	E	E
 8497a	BR	C	C
 8498a	BR	E	E
 8499a	BR	C	C
-8503a	R		N
-8508a	R		C
+8503a	R	N	N
+8508a	R	C	C
 8509a	BR	N	N
 8510a	BR	N	N
 8513a	BR	N	N
@@ -4104,22 +4104,22 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8519a	BR	N	C
 8522a	BR	E	E
 8523a	B	N	N
-8526a	R		N
+8526a	R	N	N
 8527a	BR	N	N
-8531a	R		N
+8531a	R	N	N
 8533a	B	E	N
 8534a	BR	E	N
 8535a	BR	N	N
 8539a	BR	N	N
 8540a	B	N	N
-8542a	R		C
+8542a	R	C	C
 8544a	BR	E	C
-8545a	R		N
+8545a	R	N	N
 8546a	BR	N	N
 8547a	BR	N	E
 8549a	BR	N	E
 8550a	B	C	E
-8552a	R		E
+8552a	R	N	E
 8553a	BR	E	N
 8554a	BR	N	N
 8556a	BR	N	N
@@ -4141,25 +4141,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8592a	BR	N	N
 8595a	B	E	E
 8599a	B	N	N
-8602a	R		N
+8602a	R	N	N
 8603a	BR	N	N
 8604a	B	E	E
 8605a	BR	N	N
 8612a	BR	N	E
 8615a	BR	E	E
 8616a	BR	C	C
-8617a	R		N
-8619a	R		N
-8621a	R		N
+8617a	R	N	N
+8619a	R	N	N
+8621a	R	N	N
 8623a	B	N	N
-8625a	R		N
-8628a	R		N
-8634a	R		N
+8625a	R	C	N
+8628a	R	N	N
+8634a	R	C	N
 8638a	BR	N	N
 8640a	B	E	E
-8641a	R		C
+8641a	R	N	C
 8642a	B	E	E
-8643a	R		C
+8643a	R	C	C
 8644a	B	N	N
 8648a	BR	N	N
 8650a	BR	N	N
@@ -4174,7 +4174,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8667a	BR	N	N
 8670a	BR	N	N
 8671a	BR	E	E
-8672a	R		C
+8672a	R	C	C
 8673a	BR	N	N
 8677a	B	N	N
 8681a	BR	N	C
@@ -4182,29 +4182,29 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8687a	BR	E	E
 8688a	BR	E	C
 8693a	B	N	E
-8694a	R		N
+8694a	R	N	N
 8695a	B	N	E
 8698a	BR	E	E
-8701a	R		N
+8701a	R	N	N
 8703a	B	C	N
-8704a	R		N
-8706a	R		C
+8704a	R	N	N
+8706a	R	C	C
 8707a	B	N	E
-8710a	R		N
+8710a	R	N	N
 8711a	BR	N	N
 8713a	B	N	N
 8715a	BR	C	C
-8717a	R		C
-8718a	R		N
-8720a	R		N
-8721a	R		N
+8717a	R	C	C
+8718a	R	N	N
+8720a	R	N	N
+8721a	R	C	N
 8722a	B	N	N
 8723a	BR	N	N
 8725a	B	E	E
 8726a	BR	C	C
 8729a	B	N	N
-8730a	R		N
-8731a	R		N
+8730a	R	N	N
+8731a	R	N	N
 8732a	BR	N	E
 8733a	BR	C	C
 8734a	B	E	E
@@ -4213,49 +4213,49 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8737a	BR	E	N
 8740a	BR	N	E
 8744a	BR	C	C
-8745a	R		N
-8747a	R		N
-8752a	R		E
-8754a	R		N
-8755a	R		N
+8745a	R	N	N
+8747a	R	N	N
+8752a	R	N	E
+8754a	R	N	N
+8755a	R	N	N
 8758a	B	N	N
 8761a	B	E	E
 8762a	BR	N	N
-8763a	R		N
+8763a	R	N	N
 8764a	B	N	N
-8765a	R		N
+8765a	R	N	N
 8769a	BR	C	C
 8770a	B	E	E
 8771a	BR	C	C
 8772a	BR	N	N
-8773a	R		N
-8774a	R		N
-8776a	R		N
+8773a	R	N	N
+8774a	R	N	N
+8776a	R	N	N
 8780a	BR	N	N
 8788a	B	E	E
-8789a	R		C
-8793a	R		N
-8795a	R		N
-8797a	R		E
+8789a	R	N	C
+8793a	R	N	N
+8795a	R	C	N
+8797a	R	C	E
 8798a	BR	C	C
 8799a	B	E	N
-8802a	R		N
-8803a	R		E
+8802a	R	C	N
+8803a	R	N	E
 8804a	BR	E	E
 8807a	BR	C	C
 8808a	BR	N	N
-8809a	R		N
+8809a	R	N	N
 8810a	B	N	N
 8811a	B	N	N
 8812a	B	N	N
 8817a	B	E	E
 8818a	B	N	N
-8819a	R		N
-8820a	R		N
+8819a	R	N	N
+8820a	R	N	N
 8821a	B	E	E
 8831a	BR	E	N
 8833a	B	E	E
-8835a	R		N
+8835a	R	N	N
 8837a	B	N	N
 8839a	B	N	N
 8840a	BR	E	E
@@ -4266,57 +4266,57 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8850a	BR	N	C
 8851a	B	E	E
 8853a	B	N	N
-8857a	R		N
+8857a	R	N	N
 8860a	B	E	E
 8861a	B	C	C
-8863a	R		N
+8863a	R	N	N
 8864a	BR	N	N
 8865a	BR	N	N
 8866a	BR	N	N
-8868a	R		N
+8868a	R	C	N
 8870a	B	N	C
 8871a	BR	N	E
 8872a	BR	N	N
 8874a	BR	N	N
-8877a	R		C
+8877a	R	C	C
 8880a	BR	N	N
 8881a	BR	N	N
 8882a	BR	N	N
 8883a	BR	N	N
 8884a	BR	N	N
-8885a	R		N
+8885a	R	N	N
 8886a	BR	N	C
 8887a	B	N	E
-8889a	R		N
+8889a	R	N	N
 8890a	BR	N	N
-8891a	R		N
-8893a	R		N
+8891a	R	N	N
+8893a	R	N	N
 8895a	BR	C	C
 8896a	B	E	E
 8897a	BR	C	C
 8898a	BR	N	N
-8899a	R		N
+8899a	R	N	N
 8900a	BR	N	N
-8904a	R		C
+8904a	R	C	C
 8905a	B	E	E
-8906a	R		N
+8906a	R	N	N
 8909a	B	N	E
 8910a	BR	N	N
 8911a	BR	N	E
 8912a	B	E	E
-8919a	R		C
-8920a	R		E
+8919a	R	N	C
+8920a	R	N	E
 8921a	BR	N	N
 8922a	BR	N	N
 8923a	BR	E	E
-8925a	R		N
+8925a	R	N	N
 8927a	B	N	N
 8928a	BR	N	N
-8929a	R		N
+8929a	R	N	N
 8930a	BR	E	E
 8931a	BR	N	N
 8933a	BR	C	C
-8935a	R		C
+8935a	R	N	C
 8939a	B	N	E
 8940a	BR	N	N
 8946a	B	N	N
@@ -4325,72 +4325,72 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 8951a	BR	N	N
 8953a	BR	N	N
 8954a	B	N	N
-8960a	R		C
-8962a	R		N
+8960a	R	C	C
+8962a	R	N	N
 8968a	BR	E	E
 8969a	BR	C	C
 8970a	BR	N	N
 8971a	BR	N	N
 8974a	BR	N	N
 8975a	B	E	E
-8979a	R		N
-8981a	R		N
+8979a	R	N	N
+8981a	R	N	N
 8984a	BR	E	E
 8985a	BR	C	C
-8989a	R		N
+8989a	R	N	N
 8990a	B	N	N
-8991a	R		N
+8991a	R	C	N
 8993a	B	E	N
 8995a	BR	E	N
 8997a	BR	N	N
 9002a	BR	N	N
 9003a	BR	N	N
-9004a	R		E
+9004a	R	N	E
 9007a	BR	C	C
 9008a	B	N	N
-9009a	R		N
+9009a	R	C	N
 9010a	BR	N	N
-9012a	R		N
+9012a	R	N	N
 9013a	BR	E	E
 9016a	BR	N	N
 9018a	BR	N	N
-9020a	R		N
+9020a	R	N	N
 9022a	BR	E	E
 9023a	BR	N	N
-9025a	R		C
+9025a	R	C	C
 9026a	BR	N	N
 9027a	BR	N	N
 9032a	BR	E	N
-9034a	R		C
+9034a	R	E	C
 9042a	B	E	E
-9043a	R		C
-9047a	R		N
-9048a	R		E
+9043a	R	C	C
+9047a	R	C	N
+9048a	R	N	E
 9049a	BR	E	E
-9052a	R		C
-9055a	R		N
+9052a	R	C	C
+9055a	R	N	N
 9057a	B	N	N
-9059a	R		C
-9060a	R		E
-9061a	R		C
-9062a	R		N
-9063a	R		N
-9064a	R		N
+9059a	R	C	C
+9060a	R	N	E
+9061a	R	C	C
+9062a	R	N	N
+9063a	R	N	N
+9064a	R	N	N
 9065a	B	N	N
 9072a	BR	N	N
 9076a	BR	E	E
 9079a	BR	E	N
-9081a	R		N
+9081a	R	N	N
 9082a	B	N	N
-9084a	R		N
+9084a	R	N	N
 9087a	BR	E	E
 9088a	B	C	C
 9089a	BR	N	N
 9091a	BR	N	N
 9092a	BR	N	N
-9100a	R		N
+9100a	R	N	N
 9104a	B	N	N
-9105a	R		E
+9105a	R	N	E
 9107a	BR	N	N
 9111a	BR	N	N
 9112a	B	E	E
@@ -4398,32 +4398,32 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9115a	B	C	C
 9116a	BR	N	N
 9118a	BR	N	N
-9119a	R		N
+9119a	R	N	N
 9120a	BR	N	N
 9121a	BR	E	E
-9122a	R		C
+9122a	R	C	C
 9123a	BR	E	E
 9124a	B	N	N
 9128a	BR	N	N
 9130a	B	E	E
 9135a	BR	N	N
-9138a	R		N
+9138a	R	N	N
 9143a	BR	E	E
-9144a	R		C
+9144a	R	N	C
 9145a	B	E	E
 9149a	B	N	N
-9151a	R		C
-9152a	R		N
-9154a	R		N
+9151a	R	C	C
+9152a	R	N	N
+9154a	R	N	N
 9157a	BR	E	E
 9158a	BR	C	C
 9162a	BR	N	N
 9163a	B	N	N
 9164a	B	N	N
-9165a	R		N
+9165a	R	N	N
 9166a	BR	N	N
 9168a	B	N	E
-9170a	R		N
+9170a	R	N	N
 9173a	BR	N	N
 9174a	BR	N	N
 9175a	BR	N	E
@@ -4433,25 +4433,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9180a	BR	C	N
 9182a	BR	N	C
 9190a	BR	N	N
-9191a	R		N
+9191a	R	N	N
 9195a	B	E	E
 9197a	BR	N	N
 9199a	BR	N	N
 9201a	BR	N	N
 9202a	B	E	E
-9203a	R		C
+9203a	R	N	C
 9204a	BR	E	E
 9205a	B	N	N
 9207a	BR	N	N
 9209a	BR	N	N
 9210a	BR	N	N
-9214a	R		C
+9214a	R	C	C
 9216a	BR	N	N
-9217a	R		N
+9217a	R	N	N
 9218a	B	N	N
 9219a	BR	N	N
 9220a	B	E	E
-9221a	R		N
+9221a	R	C	N
 9225a	BR	N	N
 9226a	BR	N	N
 9227a	BR	N	N
@@ -4461,31 +4461,31 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9232a	BR	C	C
 9234a	B	N	N
 9237a	B	E	E
-9243a	R		N
+9243a	R	N	N
 9244a	BR	N	N
-9245a	R		N
-9246a	R		N
-9248a	R		N
+9245a	R	N	N
+9246a	R	N	N
+9248a	R	C	N
 9251a	BR	N	N
 9252a	B	N	N
 9253a	B	N	N
-9256a	R		E
+9256a	R	N	E
 9257a	BR	C	C
-9261a	R		N
-9263a	R		N
+9261a	R	N	N
+9263a	R	N	N
 9265a	BR	E	E
 9266a	BR	N	N
 9267a	BR	E	E
 9268a	BR	C	C
-9270a	R		N
+9270a	R	N	N
 9271a	B	N	N
 9276a	BR	E	N
-9277a	R		C
-9278a	R		N
+9277a	R	C	C
+9278a	R	N	N
 9279a	B	N	N
-9282a	R		N
+9282a	R	N	N
 9283a	B	E	E
-9286a	R		C
+9286a	R	N	C
 9289a	BR	N	N
 9290a	BR	N	N
 9291a	B	N	N
@@ -4497,11 +4497,11 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9304a	BR	C	C
 9310a	B	E	E
 9311a	BR	C	C
-9312a	R		E
+9312a	R	N	E
 9316a	BR	N	N
 9317a	BR	N	N
 9318a	BR	N	N
-9320a	R		C
+9320a	R	C	C
 9321a	BR	E	E
 9322a	BR	E	E
 9324a	BR	N	N
@@ -4512,22 +4512,22 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9334a	BR	E	E
 9339a	B	E	E
 9340a	BR	N	N
-9341a	R		E
-9345a	R		N
-9346a	R		N
-9347a	R		N
+9341a	R	N	E
+9345a	R	N	N
+9346a	R	N	N
+9347a	R	N	N
 9348a	B	E	E
 9352a	B	N	N
 9353a	BR	N	N
 9355a	B	N	N
 9357a	B	E	N
-9358a	R		C
+9358a	R	C	C
 9360a	BR	E	N
 9363a	BR	N	N
 9364a	BR	N	N
 9365a	B	N	N
 9366a	B	E	E
-9372a	R		N
+9372a	R	N	N
 9376a	BR	E	N
 9378a	BR	N	C
 9379a	B	N	N
@@ -4539,14 +4539,14 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9392a	BR	N	N
 9396a	B	N	N
 9397a	BR	N	N
-9398a	R		N
+9398a	R	N	N
 9399a	B	N	N
 9403a	BR	N	N
 9404a	BR	E	E
 9405a	BR	N	N
-9406a	R		N
+9406a	R	N	N
 9409a	B	N	N
-9410a	R		N
+9410a	R	N	N
 9411a	BR	N	E
 9415a	BR	N	N
 9416a	BR	N	N
@@ -4557,10 +4557,10 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9421a	BR	N	N
 9422a	BR	E	E
 9428a	B	N	N
-9429a	R		N
+9429a	R	N	N
 9432a	BR	E	C
 9440a	BR	E	E
-9441a	R		N
+9441a	R	N	N
 9443a	B	N	N
 9446a	B	N	N
 9450a	B	E	E
@@ -4571,19 +4571,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9463a	BR	N	N
 9464a	BR	N	N
 9466a	BR	N	N
-9468a	R		C
+9468a	R	N	C
 9470a	B	E	N
-9472a	R		N
-9474a	R		N
+9472a	R	N	N
+9474a	R	N	N
 9476a	BR	N	E
-9477a	R		N
+9477a	R	N	N
 9478a	BR	E	E
 9479a	BR	N	N
 9480a	B	N	E
 9481a	B	N	N
 9483a	BR	N	N
-9484a	R		N
-9485a	R		E
+9484a	R	N	N
+9485a	R	N	E
 9486a	B	C	C
 9487a	B	E	E
 9491a	BR	E	E
@@ -4596,25 +4596,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9508a	B	N	N
 9509a	B	N	N
 9511a	B	E	E
-9513a	R		C
-9514a	R		N
+9513a	R	C	C
+9514a	R	N	N
 9518a	B	N	N
 9519a	BR	N	N
 9520a	BR	N	N
 9521a	BR	E	E
 9522a	B	N	N
-9523a	R		N
+9523a	R	N	N
 9527a	B	N	N
-9528a	R		N
+9528a	R	N	N
 9533a	B	C	C
 9534a	BR	N	N
 9536a	B	N	N
 9539a	B	E	E
 9543a	B	N	N
-9546a	R		N
+9546a	R	N	N
 9547a	B	N	N
 9548a	BR	E	E
-9550a	R		E
+9550a	R	N	E
 9552a	B	E	E
 9553a	B	E	E
 9559a	BR	E	E
@@ -4622,7 +4622,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9564a	B	C	C
 9566a	B	N	E
 9568a	B	E	E
-9573a	R		N
+9573a	R	N	N
 9575a	B	E	E
 9582a	BR	N	N
 9585a	BR	C	C
@@ -4638,9 +4638,9 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9601a	BR	N	E
 9603a	B	N	N
 9606a	B	E	E
-9608a	R		N
-9611a	R		N
-9612a	R		N
+9608a	R	N	N
+9611a	R	N	N
+9612a	R	N	N
 9613a	BR	E	E
 9614a	BR	N	N
 9618a	BR	N	N
@@ -4649,40 +4649,40 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9621a	B	N	N
 9622a	B	E	E
 9625a	BR	N	N
-9626a	R		N
-9628a	R		N
+9626a	R	N	N
+9628a	R	N	N
 9629a	BR	N	N
-9630a	R		N
+9630a	R	N	N
 9633a	B	E	N
 9634a	BR	E	E
-9637a	R		N
+9637a	R	C	N
 9640a	B	N	N
 9642a	BR	E	E
-9647a	R		N
+9647a	R	C	N
 9648a	B	N	N
-9649a	R		N
+9649a	R	N	N
 9652a	B	E	N
 9654a	BR	E	N
 9655a	B	N	N
-9658a	R		N
+9658a	R	N	N
 9660a	BR	E	E
-9661a	R		C
+9661a	R	C	C
 9663a	BR	N	N
 9664a	B	E	E
-9670a	R		C
+9670a	R	C	C
 9671a	B	E	E
 9672a	B	E	C
 9673a	BR	N	N
 9674a	BR	N	N
 9679a	BR	N	N
-9681a	R		C
-9682a	R		N
+9681a	R	N	C
+9682a	R	N	N
 9683a	B	N	N
 9685a	BR	N	N
-9686a	R		N
+9686a	R	N	N
 9688a	BR	C	C
 9690a	BR	N	N
-9693a	R		N
+9693a	R	N	N
 9696a	BR	N	E
 9705a	BR	E	N
 9707a	BR	E	N
@@ -4690,19 +4690,19 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9712a	B	N	N
 9714a	B	E	E
 9716a	BR	E	E
-9724a	R		C
+9724a	R	C	C
 9725a	BR	E	E
 9727a	B	N	N
-9728a	R		N
-9729a	R		N
+9728a	R	N	N
+9729a	R	N	N
 9732a	BR	E	E
 9734a	BR	E	E
-9735a	R		C
+9735a	R	C	C
 9737a	B	E	N
-9739a	R		N
+9739a	R	N	N
 9740a	B	E	N
 9741a	B	E	E
-9742a	R		N
+9742a	R	E	N
 9743a	BR	E	E
 9750a	B	E	E
 9751a	BR	E	C
@@ -4715,25 +4715,25 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9768a	BR	N	N
 9772a	B	N	N
 9775a	BR	N	N
-9777a	R		N
+9777a	R	C	N
 9781a	BR	N	N
 9782a	BR	N	N
 9783a	BR	N	N
 9785a	BR	N	N
 9787a	BR	N	N
-9790a	R		N
+9790a	R	N	N
 9791a	BR	N	N
 9792a	BR	N	N
 9793a	BR	N	N
 9794a	B	N	N
 9796a	BR	N	N
-9797a	R		N
-9798a	R		N
-9802a	R		N
+9797a	R	C	N
+9798a	R	N	N
+9802a	R	C	N
 9804a	B	N	N
 9807a	BR	N	N
 9808a	B	N	N
-9809a	R		N
+9809a	R	N	N
 9810a	B	N	N
 9812a	BR	N	N
 9813a	BR	N	N
@@ -4769,7 +4769,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9873a	BR	N	N
 9881a	BR	N	N
 9883a	BR	N	N
-9887a	R		N
+9887a	R	N	N
 9888a	BR	N	N
 9890a	BR	N	N
 9891a	BR	N	N
@@ -4782,7 +4782,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9902a	B	N	N
 9906a	BR	N	N
 9908a	B	N	N
-9909a	R		N
+9909a	R	N	N
 9910a	BR	N	N
 9913a	BR	N	N
 9917a	BR	N	N
@@ -4813,7 +4813,7 @@ pair_ID	HybridLabel	MappedLabel	GoldLabel
 9965a	B	N	N
 9966a	B	N	N
 9969a	B	N	N
-9970a	R		N
+9970a	R	N	N
 9971a	BR	N	N
 9972a	BR	N	N
 9977a	BR	N	N
